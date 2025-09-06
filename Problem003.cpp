@@ -25,6 +25,6 @@ int main(){
     return 0;
 }
 // https://leetcode.com/problems/product-of-array-except-self/
-// first, we calculate product of all elements to the left of each index (prefix element)
-// then we calculate product of all elements to the right of each index (suffix element)
-// finally, we multiply both prefix and suffix on each answer index to get the final result array
+// First, we calculate product of all elements to the left of each index (prefix element)
+// Then we calculate product of all elements to the right of each index (suffix element)
+// Finally, we multiply both prefix and suffix on each answer index to get the final result array
