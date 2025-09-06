@@ -20,5 +20,5 @@ int main(){
     return 0;
 } 
 // https://leetcode.com/problems/container-with-most-water/
-// we use two pointer approach here, one pointer at the start and one at the end and keep calculating the area and updating the maximum area so far
-// and then we move the pointer which is at the smaller height towards the other pointer until both pointers meet
+// We use two pointer approach here, one pointer at the start and one at the end and keep calculating the area and updating the maximum area so far
+// And then we move the pointer which is at the smaller height towards the other pointer until both pointers meet
