@@ -18,3 +18,6 @@ int main(){
     cout<<search(nums,target)<< endl;
     return 0;
 }
+// Problem link: https://leetcode.com/problems/binary-search/
+// we just introduce two variables as starting index and ending index
+// then we just calculate the mid index and check if the mid element is equal, if not, we just update the start or end accordingly and repeat until answer
