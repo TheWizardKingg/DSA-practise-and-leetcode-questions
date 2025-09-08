@@ -5,3 +5,5 @@ Author - Mohit Sharma
 **DAY 1 :** [Buy and Sell stock], [Container with most water], [product of array except self]
 
 **DAY 2 :** [Binary search], [Search in rotated sorted array]
+
+**DAY 3 :** [Binary search for peak index]
