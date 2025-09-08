@@ -33,3 +33,8 @@ int main(){
     cout<<singleNonDuplicate(arr);
     return 0;
 }
+// Problem link: https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+// we just initialize the binary search program structure and then simply check if the mid is equal to its previous or next element
+// if mid is equal to its previous element AND number of elements on both the sides of mid are even, then we know that the single element lies on left side becasue even-1=odd
+// if mid is equal to its previous element AND number of elements on both the sides of mid are odd, then we know that the single element lies on right side becasue odd-1=even
+// follow the same logic if duplicate element of the mid lies after it
