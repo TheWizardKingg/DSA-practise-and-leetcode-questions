@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 int peakIndexInMountainArray(vector<int>& arr) {
-    int start=0, end =arr.size()-1;
+    int start=1, end =arr.size()-2;
     int mid=start+(end-start)/2;
     while (start<=end){
         if (arr[mid-1]< arr[mid] && arr[mid] >arr[mid+1]){
