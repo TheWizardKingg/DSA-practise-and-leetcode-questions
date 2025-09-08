@@ -6,4 +6,4 @@ Author - Mohit Sharma
 
 **DAY 2 :** [Binary search], [Search in rotated sorted array]
 
-**DAY 3 :** [Binary search for peak index]
+**DAY 3 :** [Binary search for peak index], [Single element in a sorted array via binary search]
