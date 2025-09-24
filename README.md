@@ -9,3 +9,5 @@ Author - Mohit Sharma
 **DAY 3 :** [Binary search for peak index], [Single element in a sorted array via binary search]
 
 **DAY 4 :** [Book allocatoin problem (SOLUTION-IN-PROGRESS){FIRST HARD PROBLEM}]
+
+**DAY 5 :** [First linked list program]
