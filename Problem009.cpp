@@ -2,12 +2,20 @@
 using namespace std;
 int main(){
     int n=5;
+    int flag=0;
     int arr[5]={4,1,5,2,3};
     for (int i=0;i<5; i++){
         for (int j=0; j<5-i-1;j++){
             if (arr[j]>arr[j+1]){
                 swap(arr[j],arr[j+1]);
+                flag=1;
             }
+            
+            
+        }
+        if (flag==0){
+            cout << "array is already sorted" << endl;
+            break;
         }
     }
     for (int i=0; i<5; i++){
