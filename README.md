@@ -11,3 +11,5 @@ Author - Mohit Sharma
 **DAY 4 :** [Book allocatoin problem (SOLUTION-IN-PROGRESS){FIRST HARD PROBLEM}]
 
 **DAY 5 :** [First linked list program]
+
+**DAY 6 :** [Bubble sort program]
