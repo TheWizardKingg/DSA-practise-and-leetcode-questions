@@ -12,5 +12,5 @@ Author - Mohit Sharma
 
 **DAY 5 :** [First linked list program]
 
-**DAY 6 :** [Bubble sort program], [Selection_sort_program]
+**DAY 6 :** [Bubble sort program], [Selection sort program], [Insertion sort program]
 
