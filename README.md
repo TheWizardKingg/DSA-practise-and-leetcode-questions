@@ -14,5 +14,5 @@ Author - Mohit Sharma
 
 **DAY 6 :** [Bubble sort program], [Selection sort program], [Insertion sort program]
 
-**DAY 7 :** [Book allocation Problem]
+**DAY 7 :** [Book allocation Problem], [Painter's partition Problem]
 
