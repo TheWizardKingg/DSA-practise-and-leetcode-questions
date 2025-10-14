@@ -16,5 +16,5 @@ Author - Mohit Sharma
 
 **DAY 7 :** [Book allocation Problem], [Painter's partition Problem]
 
-**DAY 8 :** [Doubly linked list full program and activities]
+**DAY 8 :** [Doubly linked list full program and activities], [Sorted colors program]
 
