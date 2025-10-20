@@ -20,3 +20,5 @@ Author - Mohit Sharma
 
 **DAY 9 :** [circular singly linked list]
 
+**DAY 10 :** [Next Permutations problem], [merge sorted arrays]
+
