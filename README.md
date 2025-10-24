@@ -22,5 +22,5 @@ Author - Mohit Sharma
 
 **DAY 10 :** [Next Permutations problem], [merge sorted arrays]
 
-**DAY 11 :** [singly circular linked list program]
+**DAY 11 :** [singly circular linked list program], [reverse a string]
 
