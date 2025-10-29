@@ -25,3 +25,5 @@ Author - Mohit Sharma
 **DAY 11 :** [singly circular linked list program], [reverse a string], [string pallindrome], [remove all occurences]
 
 **DAY 12 :** [First sliding window program, permutation in string], [reverse words in string]
+
+**DAY 13 :** [string compression program]
