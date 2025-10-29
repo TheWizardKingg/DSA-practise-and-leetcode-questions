@@ -9,7 +9,7 @@ void display(node* end){
     
     
     do{
-        cout<<Temp->data<<" ";
+        cout<<Temp->data;
         Temp=Temp->next;
     }while(Temp!=end->next);
 }
@@ -30,31 +30,6 @@ void deleteatbeg(node* &end){
     node* TEMP=end->next;
     end->next=end->next->next;
     free(TEMP);
-}
-void deleteatend(node* &end){
-    node* TEMP=end->next;
-    node* TEMP2;
-    for (int i=0; TEMP->next!=end; i++){
-        TEMP=TEMP->next;
-    }
-    TEMP2=TEMP;
-    TEMP2=TEMP2->next;
-    TEMP->next=end->next;
-    end=TEMP;
-    free(TEMP2);
-
-}
-void deleteatpos(node* &end, int pos){
-    node * TEMP=end->next;
-    node* TEMP2;
-    for (int i=0; i<pos-2; i++){
-        TEMP=TEMP->next;
-    }
-    TEMP2=TEMP;
-    TEMP=TEMP->next;
-    TEMP2->next=TEMP->next;
-    free(TEMP);
-    
 }
 int main(){
     node* end=NULL;
@@ -79,14 +54,23 @@ int main(){
             end=newnode;
         }
     }
-    int pos;
-    cout<<"Enter the position of the node to delete: ";
-    cin>>pos;
-    deleteatpos(end,pos);
-    cout<<"After deletion at position: ";
+    node* temp=end->next;
+    
+    do{
+        cout<<temp->data;
+        temp=temp->next;
+    }while(temp!=end->next);
+    // int VAL;
+    // cout<<"Enter any number to insert at beginning";
+    // cin>>VAL;
+    // insertatbeg(end, VAL);
+    // int a;
+    // cout<<"Enter any number to insert at end";
+    // cin>>a;
+    // insertatend(end, a);
+    deleteatbeg(end);
+    cout<<endl;
     display(end);
     
     return 0;
 }
-
-// singly circular linked list implementation complete
