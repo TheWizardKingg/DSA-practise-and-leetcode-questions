@@ -12,6 +12,9 @@ void display(stack* top){
     }
     return ;
 }
+void push(stack ){
+    stack* top
+}
 int main(){
     stack* top=NULL;
     int val;
@@ -32,7 +35,7 @@ int main(){
     cin>>choice;
     if (choice==1){
         display(top);
-
+        
     }else if (choice==2){
         return 0;
     }
