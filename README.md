@@ -29,3 +29,8 @@ Author - Mohit Sharma
 **DAY 13 :** [string compression program]
 
 **DAY 14 :** [stack implementation using linked list]
+
+**14-NOV-2025 :** [fibonacci series from recursion], [sum of n numbers using recursion]
+
+**14-NOV-2025 :** [printing table using recursion]
+
