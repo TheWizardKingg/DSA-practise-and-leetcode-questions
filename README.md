@@ -34,5 +34,5 @@ Author - Mohit Sharma
 
 **14-NOV-2025 :** [printing table using recursion]
 
-**18-NOV-2025 :** [linear Queue array implementation]
+**18-NOV-2025 :** [linear Queue array implementation], [linear queue linked list implementation]
 
