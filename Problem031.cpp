@@ -26,7 +26,7 @@ void peek(int &front, int &rear){
     if (front==-1 && rear==-1){
         cout<<"Queue is empty"<<endl;
     }else{
-        cout<<Queue[front];
+        cout<<Queue[front]<<endl;
     }
 }
 void display(int front, int rear, int Queue[MAX]){
@@ -58,3 +58,5 @@ int main(){
     }
     return 0;
 }
+
+//linear Queue using array implementation 
