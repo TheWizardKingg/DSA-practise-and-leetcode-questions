@@ -38,3 +38,4 @@ Author - Mohit Sharma
 
 **23-NOV-2025 :** [2D matrix program input/output], [2D matrix linear search], [max row and col sum in matrix]
 
+**23-NOV-2025 :** [primary and secondary diagonal sum]
