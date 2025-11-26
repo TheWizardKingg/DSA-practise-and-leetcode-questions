@@ -4,6 +4,7 @@ img=cv2.imread(a)
 b=input("Enter the image title: ")
 img=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 show=cv2.imshow(b,img)
+print(img.shape())               # prints the dimensions of the image as  ->   (height, width, (blue, green, red))
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 c=input("Enter the name to save the image: ")
@@ -17,3 +18,4 @@ print(f"Image saved successfully by {name}.")
 # writing/saving = module.function("<new_file_name>",<reading>)   [new_file_name can be anything as per user choice] 
 # cv2.COLOR_BGR2GRAY is used to convert the image from BGR to GRAY scale
 # cv2.waitKey(0) is used to keep the image window open until any key
+# dude, i am a madman, did so many commits in this file already :P
