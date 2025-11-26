@@ -41,3 +41,7 @@ Author - Mohit Sharma
 **23-NOV-2025 :** [primary and secondary diagonal sum]
 
 **24-NOV-2025 :** [binary search in 2D matrix]
+
+**25-NOV-2025 :** [nothinggg, my badd........   :P], [completed numpy, pandas, started opencv]
+
+**26-NOV-2025 :** [first python program in opencv (super basic), not DSA, but again, who cares... :)]
