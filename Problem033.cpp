@@ -17,3 +17,5 @@ int main(){
     }
     return 0;
 }
+//took input of a 3x3 matrix from user and displayed it
+//basic 2D array input output
