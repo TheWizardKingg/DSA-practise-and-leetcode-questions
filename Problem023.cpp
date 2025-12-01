@@ -12,3 +12,5 @@ int main(){
     }
     return 0;
 }
+//removed all occurrences of substring "abc" from the given string "daabcbaabcbc" and printed the resulting string
+//used string functions like find and erase
