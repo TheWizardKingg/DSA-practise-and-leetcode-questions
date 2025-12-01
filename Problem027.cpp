@@ -1,43 +1,49 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-struct stack{
+
+struct Node {
     int data;
-    stack*next;
+    Node* next;
 };
-void display(stack* top){
-    stack* temp=top;
-    while (temp!=NULL){
-        cout<<temp->data;
-        temp=temp->next;
+void push(Node*& top, int value) {
+    Node* newnode = new Node;
+    newnode->data = value;
+    newnode->next = top;
+    top = newnode;
+}
+void display(Node* top) {
+    Node* temp = top;
+    while (temp != NULL) {
+        cout << temp->data << " ";
+        temp = temp->next;
     }
-    return ;
+    cout << endl;
 }
-void push(stack ){
-    stack* top
-}
-int main(){
-    stack* top=NULL;
+
+int main() {
+    Node* top = NULL;
     int val;
-    while (true){
-        cout<<"Enter data(-1 to stop): ";
-        cin>>val;
-        if (val==-1){
+
+    while (true) {
+        cout << "Enter data (-1 to stop): ";
+        cin >> val;
+
+        if (val == -1) {
             break;
-        }else{
-            stack* newnode=(struct stack*) malloc(sizeof(stack));
-            newnode->data=val;
-            newnode->next=top;
-            top=newnode;
         }
-    }
-    int choice;
-    cout<<"1. DISPLAY\n2. EXIT\n";
-    cin>>choice;
-    if (choice==1){
-        display(top);
         
-    }else if (choice==2){
-        return 0;
+        push(top, val);
     }
+
+    int choice;
+    cout << "1. DISPLAY\n2. EXIT\n";
+    cin >> choice;
+
+    if (choice == 1) {
+        display(top);
+    }
+
     return 0;
 }
+//implemented a stack using linked list
+//provided options to push elements onto the stack and display the stack contents
