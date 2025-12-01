@@ -45,3 +45,5 @@ Author - Mohit Sharma
 **25-NOV-2025 :** [nothinggg, my badd........   :P], [completed numpy, pandas, started opencv]
 
 **26-NOV-2025 :** [first python program in opencv (super basic), not DSA, but again, who cares... :)]
+
+**1-DEC-2025 :** [pandas in python]
