@@ -48,4 +48,4 @@ Author - Mohit Sharma
 
 **1-DEC-2025 :** [pandas in python], [Two Sum using hashmap], [missing and repeated values in matrix]
 
-**3-Dec-2025 :** [Majority element in an array]
+**3-Dec-2025 :** [Majority element in an array], [single element of the array]
