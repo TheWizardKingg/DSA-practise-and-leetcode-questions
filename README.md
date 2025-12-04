@@ -51,3 +51,5 @@ Author - Mohit Sharma
 **3-Dec-2025 :** [Majority element in an array], [single element of the array]
 
 **4-Dec-2025 :** [longest substring without repetition]
+
+**5-Dec-2025 :** [classes and objects exercise]
