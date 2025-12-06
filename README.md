@@ -53,3 +53,5 @@ Author - Mohit Sharma
 **4-Dec-2025 :** [longest substring without repetition]
 
 **5-Dec-2025 :** [classes and objects exercise]
+
+**6-Dec-2025 :** [linked list using class and obj, also, i am doing less questions because of exams T-T]
