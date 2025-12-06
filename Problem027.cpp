@@ -47,3 +47,4 @@ int main() {
 }
 //implemented a stack using linked list
 //provided options to push elements onto the stack and display the stack contents
+//i will be adding cleaner code with classes later on in this repo
