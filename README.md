@@ -55,3 +55,5 @@ Author - Mohit Sharma
 **5-Dec-2025 :** [classes and objects exercise]
 
 **6-Dec-2025 :** [linked list using class and obj, also, i am doing less questions because of exams T-T]
+
+**7-Dec-2025 :** [reversing a linked list], [continuous exams this week, i am gonna say that everytime i can :P]
