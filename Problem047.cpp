@@ -64,3 +64,5 @@ int main(){
     return 0;
     
 }
+//https://leetcode.com/problems/reverse-linked-list/
+//implemented a linked list with insert and display functions
