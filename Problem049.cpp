@@ -29,6 +29,7 @@ public:
             temp=temp->next;
         }
         return head;
+        
     }
 };
 int main(){
@@ -40,25 +41,18 @@ int main(){
         if (val==-1) break;
         list.insert(val);
     }
-    node* temp=list.display();
-    node* temp2=temp;
-    int count=0;
-    while(temp!=NULL){
-        count++;
-        temp=temp->next;
+    cout<<"Linked list: ";
+    node* HEAD=list.display();
+    node* temp1=HEAD;
+    node* temp2=HEAD;
+    while (true){
+        temp2=temp2->next->next;
+        temp1=temp1->next;
+        if (temp2==NULL || temp2->next==NULL) break;
     }
-    if (count%2!=0){
-        for (int i=0; i<count/2; i++){
-            temp2=temp2->next;
-        }
-        cout<< temp2->data;
-    }else{
-        for (int i=0; i<count/2; i++){
-            temp2=temp2->next;
-        }
-        cout<<temp2->data;
-    }
+    cout<<endl<<"middle node: "<<temp1->data<<" ";
     return 0;
+    
 }
 //https://leetcode.com/problems/linked-list-middle-node/description/
 //This code is very easy, run first loop to count number of nodes in a list, then just run the loop n/2 times accordingly to odd or even to return pointer
