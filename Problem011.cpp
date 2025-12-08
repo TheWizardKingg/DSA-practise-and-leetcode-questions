@@ -10,13 +10,12 @@ int main(){
             }
         }
         k++;
-
     }
     while (l<5){
         cout << arr[l]<< " ";
         l++;
-
     }
     return 0;
-   
+
 }
+//insertion sort program
