@@ -57,3 +57,5 @@ Author - Mohit Sharma
 **6-Dec-2025 :** [linked list using class and obj, also, i am doing less questions because of exams T-T]
 
 **7-Dec-2025 :** [reversing a linked list], [continuous exams this week, i am gonna say that everytime i can :P]
+
+**8-Dec-2025 :** [middle of a linked list], dude, keeping this streak alive on both platforms in exam season git is hard and tiring af,    (*o*)
