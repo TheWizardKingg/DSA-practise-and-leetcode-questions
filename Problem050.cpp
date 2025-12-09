@@ -56,3 +56,8 @@ int main() {
 //i know it already, and i am lazy, tired, in exam mode (i am going to say that everytime i can)
 // and have no time at all, done these programs countless times before, so yeah..., i am not checking if this even works
 //and again the golden words:- Who cares :)
+
+
+
+
+// I forgot, This is my 50th code on this platform :), lets gooo..., half century babyyyy!!
