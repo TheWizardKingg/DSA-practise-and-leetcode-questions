@@ -46,7 +46,9 @@ Author - Mohit Sharma
 
 **26-NOV-2025 :** [first python program in opencv (super basic), not DSA, but again, who cares... :)]
 
-**1-DEC-2025 :** [pandas in python], [Two Sum using hashmap], [missing and repeated values in matrix]
+**1-DEC-2025 :** [pandas in python], [Two Sum using hashmap]
+
+**2-Dec-2025 :** [missing and repeated values in matrix]
 
 **3-Dec-2025 :** [Majority element in an array], [single element of the array]
 
