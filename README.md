@@ -61,3 +61,5 @@ Author - Mohit Sharma
 **8-Dec-2025 :** [middle of a linked list, slow/fast pointer approach], dude, keeping this streak alive on both platforms in exam season is hard and tiring af,    (XoX)
 
 **9-Dec-2025 :** [Merge sort program], [Adding polynomials with linked list]
+
+**10-Dec-2025 :** [detecting cycles in a linked list by (slow/fast pointer)]
