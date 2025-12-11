@@ -65,3 +65,5 @@ Author - Mohit Sharma
 **9-Dec-2025 :** [Merge sort program], [Adding polynomials with linked list]
 
 **10-Dec-2025 :** [detecting cycles in a linked list by (slow/fast pointer)]
+
+**11-Dec-2025 :** [detecting cycle's first node]
