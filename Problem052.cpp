@@ -34,3 +34,5 @@ void untangleList(ListNode *head){
 int main(){
     return 0;
 }
+//https://leetcode.com/problems/linked-list-cycle-ii/description/
+//This code uses Floyd's Tortoise and Hare algorithm to detect the cycle and then find the starting node of the cycle.
