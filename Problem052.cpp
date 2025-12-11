@@ -5,7 +5,7 @@ struct ListNode{
     ListNode* next;
 };
 
-ListNode *detectCycle(ListNode *head){
+void untangleList(ListNode *head){
     ListNode* slow=head;
     ListNode* fast=head;
     bool found=false;
@@ -18,15 +18,17 @@ ListNode *detectCycle(ListNode *head){
         }
     }
     if (found!=true){
-        return NULL;
+        return ;
     }
     
     slow=head;
+    ListNode* temp;
     while(slow!=fast){
         slow=slow->next;
+        temp=fast;
         fast=fast->next;
     }
-    return slow;
+    temp->next=NULL;
 }
 
 int main(){
