@@ -66,4 +66,4 @@ Author - Mohit Sharma
 
 **10-Dec-2025 :** [detecting cycles in a linked list by (slow/fast pointer)]
 
-**11-Dec-2025 :** [detecting cycle's first node]
+**11-Dec-2025 :** [detecting cycle's first node], [untangling the linked list loop]
