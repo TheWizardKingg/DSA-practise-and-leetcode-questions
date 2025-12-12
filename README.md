@@ -67,3 +67,5 @@ Author - Mohit Sharma
 **10-Dec-2025 :** [detecting cycles in a linked list by (slow/fast pointer)]
 
 **11-Dec-2025 :** [detecting cycle's first node], [untangling the linked list loop]
+
+**12-Dec-2025 :** [untangling a linked list loop], [three sum problem brute forced approach]      #exams are over finally :)
