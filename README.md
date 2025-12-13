@@ -70,4 +70,4 @@ Author - Mohit Sharma
 
 **12-Dec-2025 :** [untangling a linked list loop], [three sum problem brute forced approach]      #exams are over finally :)
 
-**13-Dec-2025 :** [O(n2) approach for threeSum]
+**13-Dec-2025 :** [O((n+nlogn)^2) approach for threeSum], [finally the optimized approach (nlogn+n2), two pointers approach] :D
