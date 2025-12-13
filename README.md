@@ -69,3 +69,5 @@ Author - Mohit Sharma
 **11-Dec-2025 :** [detecting cycle's first node], [untangling the linked list loop]
 
 **12-Dec-2025 :** [untangling a linked list loop], [three sum problem brute forced approach]      #exams are over finally :)
+
+**13-Dec-2025 :** [O(n2) approach for threeSum]
