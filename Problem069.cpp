@@ -1,49 +1,36 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;    
+#include<iostream>
+#include<vector>
+#include<map>
+using namespace std;
+vector<vector<int>> threeSum(vector<int> nums){
+    vector<vector<int>> ans;
+    vector<int> vec;
+    map<int,int> mp;
+    for (int i=0; i<nums.size(); i++){
+        mp.insert({nums[i],i});
+    }
 
-class Solution {
-public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> ans;
-        sort(nums.begin(), nums.end());
-        int n = nums.size();
-        for (int i = 0; i < n; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-            int l = i + 1;
-            int r = n - 1;
-            while (l < r) {
-                int sum = nums[i] + nums[l] + nums[r];
-                if (sum == 0) {
-                    ans.push_back({nums[i], nums[l], nums[r]});
-                    while (l < r && nums[l] == nums[l + 1]) l++;
-                    while (l < r && nums[r] == nums[r - 1]) r--;
+    for (int i=0; i<nums.size(); i++){
+        for (int j=i+1; j<nums.size(); j++){
+            int target=-(nums[i]+nums[j]);
+            if(mp.find(target)!=mp.end()){
+                if(i!=j && j!=mp[target] && mp[target]!=i){
                     
-                    l++;
-                    r--;
-                }
-                else if (sum < 0) {
-                    l++;
-                }
-                else {
-                    r--;
+                    ans.push_back({nums[i],nums[j],target});
                 }
             }
         }
-        return ans;
     }
-};
+    return ans;
+}
 int main(){
-    vector<int> nums = {-1,0,1,2,-1,-4};
-    Solution sol;
-    sol.threeSum(nums);
-    for (auto x: sol.threeSum(nums)){
-        for (auto y: x){
+    vector<int> nums={-1,0,1,2,-1,-4};
+    vector<vector<int>> sol=threeSum(nums);
+    for(vector<int> x: sol){
+        for(int y: x){
             cout<<y<<" ";
         }
         cout<<endl;
     }
     return 0;
 }
-// pending for debugging
