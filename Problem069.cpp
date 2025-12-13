@@ -1,44 +1,42 @@
 #include<iostream>
 #include<vector>
-#include<set>
-#include<map>
 #include<algorithm>
 using namespace std;
+
 vector<vector<int>> threeSum(vector<int>nums){
     vector<vector<int>> ans;
-    map<int,int> mp;
-    set<vector<int>> st;
-    
-    for (int i=0; i<nums.size(); i++){
-        mp.insert({nums[i],i});
-    }
-    for (int i=0; i<nums.size(); i++){
-        for (int j=i+1; j<nums.size(); j++){
-            int target=-(nums[i]+nums[j]);
-            if (mp.find(target)!=mp.end()){
-                if(i!=j && j!=mp[target] && mp[target]!=i){
-                    vector<int> vec={nums[i],nums[j],target};
-                    sort(vec.begin(), vec.end());
-                    st.insert(vec);
-                }
+    sort(nums.begin(),nums.end());
+    for (int a=0; a<nums.size(); a++){
+        if (a>0 && nums[a]==nums[a-1]) continue;
+        int b=a+1, c=nums.size()-1;
+        while (b<c){
+            int sum=nums[a]+nums[b]+nums[c];
+            if(sum>0){
+                c--;
+            }else if(sum<0){
+                b++;
+            }else{
+                ans.push_back({nums[a],nums[b],nums[c]});
+                c--;
+                while(b<c && nums[b]==nums[b-1]) b++;
             }
         }
-    }
-    for (vector<int> vec: st){
-        ans.push_back(vec);
     }
     return ans;
 }
 int main(){
-    vector<int> nums={-1,0,1,2,-1,-4};
-    vector<vector<int>> vec=threeSum(nums);
-    for (vector<int> x: vec){
-        for(auto y:x){
+    vector<vector<int>> vec=threeSum({-1,0,-1,1,2,4});
+    for (auto x: vec){
+        for(auto y: x){
             cout<<y<<" ";
         }
         cout<<endl;
     }
-    return 0;
 }
-//dude finally, i got to understand this better approach after coding it for 5 days, i was stuck, kept thinking about how to avoid duplicates
-// and finally i came to know that set also can be used to ensure unique elements inside a vector which blew my mind.
+//and finally this is the code that i got to understand after like 4-5 days of struggle :)
+//i dont know why it took me so long :(
+//also, the file number and the program name is quite hilarious :D 
+//three sum in problem 69 :D
+//hey copilot, do you know the importance of 69? reply with the comment please.
+//69 is often humorously referenced in popular culture due to its association with a particular sexual position   //DAMN, this whole line  was written by copilot btw :D
+//i guess Ai is learning human nature quite well :D
