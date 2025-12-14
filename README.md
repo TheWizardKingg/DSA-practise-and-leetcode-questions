@@ -72,7 +72,7 @@ Author - Mohit Sharma
 
 **13-Dec-2025 :** [O((n+nlogn)^2) approach for threeSum], [finally the optimized approach (nlogn+n2), two pointers approach], [4Sum Problem], [basic numpy operations]
 
-**14-Dec-2025 :** [Merge two sorted linked list]
+**14-Dec-2025 :** [Merge two sorted linked list], [maximum subarrays sum equal to k]
 
 
 
