@@ -37,4 +37,9 @@ int main(){
     int k=2;
     cout<<sol.subarraySum(vec,k);
 }
-//This is also not completed or tested yet, this alone took me the whole day (the brute approach)
+
+//This is also not completed or tested yet, this alone took me the whole day (the bruteforce approach)
+//This is the optimized approach
+//the brute approach include 2 loops and checking all subarrays
+//the optimized approach include prefix sum and hashmap to store the frequency of prefix sums
+
