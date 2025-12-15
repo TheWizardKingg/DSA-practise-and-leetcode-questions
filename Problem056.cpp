@@ -6,48 +6,24 @@ struct ListNode {
     ListNode() : val(0), next(nullptr) {}
     ListNode(int x) : val(x), next(nullptr) {}
     ListNode(int x, ListNode *next) : val(x), next(next) {}
-};
+};  
 class Solution {
 public:
-    void insert(ListNode* &head, int x){
-        ListNode* newnode= new ListNode(x);
-        ListNode* TEMP=head;
-        if (TEMP==NULL){
-            TEMP=newnode;
-        }else{
-            while(TEMP->next!=NULL){
-                TEMP=TEMP->next;
-            }
-            TEMP->next=newnode;
-            TEMP=TEMP->next;
-        }
-        TEMP->val=x;
-        TEMP->next=NULL;
-    }
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* list3=NULL;
-        ListNode* temp1=list1;
-        ListNode* temp2=list2;
-        while(temp1!=NULL && temp2!=NULL){
-            if(temp1->val < temp2->val){
-                insert(list3,temp1->val);
-                temp1=temp1->next;
-            }else if(temp1->val >= temp2->val){
-                insert(list3,temp2->val);
-                temp2=temp2->next;
+        if (list1==NULL || list2==NULL){
+            if (list1==NULL){
+                return list2;
+            }else{
+                return list1;
             }
         }
-        while(temp1!=NULL){
-            insert(list3,temp1->val);
-            temp1=temp1->next;
+        if (list1->val <= list2->val){
+            list1->next = mergeTwoLists(list1->next, list2);
+            return list1;
+        }else{
+            list2->next = mergeTwoLists(list1, list2->next);
+            return list2;
         }
-        while(temp2!=NULL){
-            insert(list3,temp2->val);
-            temp2=temp2->next;
-        }
-        return list3;
-        
     }
 };
-
-//This is not complete yet, i will complete it soon
+//this stuff can't be tested offcourse without any example lists, and i am too lazy to create so who cares :D
