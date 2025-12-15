@@ -74,5 +74,7 @@ Author - Mohit Sharma
 
 **14-Dec-2025 :** [Merge two sorted linked list], [maximum subarrays sum equal to k]
 
+**15-Dec-2025 :** [Merge two sorted linked lists (recursive approach)]
+
 
 
