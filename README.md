@@ -76,7 +76,7 @@ Author - Mohit Sharma
 
 **15-Dec-2025 :** [Merge two sorted linked lists (recursive approach)], [Deep copy of a linked list (incomplete)]
 
-**16-Dec-2025 :** [Deep copy of the same linked list, (still debugging errors, sry for the delay :P)]
+**16-Dec-2025 :** [Deep copy of the same linked list, (debugged a silly logic error for today :P )]
 
 
 
