@@ -30,10 +30,10 @@ public:
             }else{
                 temp2->next=newnode;
                 temp2=newnode;
-            }
-            temp1=temp1->next;
-            mp.insert({temp1,temp2});
-        }
+            }                                      // bro, can you believe it? 
+            mp.insert({temp1,temp2});  
+            temp1=temp1->next;                 // i just realized, that i updated first, then inserted
+        }                                              //        /(XoX)/
         Node* TEMP1=head1;
         Node* TEMP2=head2;
         while(TEMP1!=NULL){
