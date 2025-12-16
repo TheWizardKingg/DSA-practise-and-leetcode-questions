@@ -18,7 +18,7 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head1) {
-        map<int,Node*> mp;
+        map<Node*,Node*> mp;
         Node* temp1=head1;
         Node* head2=NULL;
         Node* temp2=head2;
@@ -32,13 +32,22 @@ public:
                 temp2=newnode;
             }
             temp1=temp1->next;
-            mp.insert({i,temp2});
+            mp.insert({temp1,temp2});
         }
         Node* TEMP1=head1;
         Node* TEMP2=head2;
         while(TEMP1!=NULL){
-            
+            if(TEMP1->random==NULL){
+                TEMP2->random==TEMP1->random;
+                
+            }else{
+                TEMP2->random=mp[TEMP1->random];
+            }
+            TEMP1=TEMP1->next;
+            TEMP2=TEMP2->next;
         }
+        return head2;
+            
     }
 };
 //the idea is to basically make a list copy, and then use a map to store the random connections of the new nodes
