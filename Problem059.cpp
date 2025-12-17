@@ -10,7 +10,11 @@ public:
         right=NULL;
         left=NULL;
     }
-    void BuildTree(int PreArr[]){
+    node* BuildTree(int PreArr[], int size, int index){
+        if(PreArr[index]==-1 || index>=size){
+            return NULL;
+        }
+        node* root=new node(PreArr[index]);
         
     }
 };
