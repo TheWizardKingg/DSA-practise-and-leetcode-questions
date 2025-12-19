@@ -82,6 +82,8 @@ Author - Mohit Sharma
 
 **18-Dec-2025 :** [pre order tree], [postorder tree]
 
+**19-Dec-2025 :** [Tree Building from PreOrder sequence using recursion]
+
 
 
 
