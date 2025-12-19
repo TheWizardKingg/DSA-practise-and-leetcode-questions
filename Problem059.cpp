@@ -24,7 +24,14 @@ public:
     }
 };
 int main(){
-    vector<int> preArr={1,2,-1,-1,3,4,-1,-1,5,-1,-1};
+    vector<int> preArr;
+    int data=0;
+    while(true){
+        cout<<"Enter the value: ";
+        cin>>data;
+        if(data==-10) break;
+        preArr.push_back(data);
+    }
     node root(preArr[0]);
     node* TreeRoot=root.BuildTree(preArr);
     node* temp=TreeRoot;
@@ -33,5 +40,6 @@ int main(){
     //     cout<<temp->data;
     //     temp=temp->right;
     // }
+
 }
 //this is the main program to define a tree from a preorder sequence given with -1 as null node.
