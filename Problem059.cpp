@@ -1,54 +1,37 @@
-#include <iostream>
+#include<iostream>
+#include<vector>
 using namespace std;
-
-struct Node {
+class node{
+public:
     int data;
-    Node* left;
-    Node* right;
-
-    Node(int val) {
-        data = val;
-        left = NULL;
-        right = NULL;
+    node* right;
+    node* left;
+    node(int val){
+        data=val;
+        right=NULL;
+        left=NULL;
+    }
+    int index=-1;
+    node* BuildTree(vector<int> PreArr){
+        index++;
+        if (PreArr[index]==-1){
+            return NULL;
+        }
+        node* root= new node(PreArr[index]);
+        root->right=BuildTree(PreArr);
+        root->left=BuildTree(PreArr);
+        return root;
     }
 };
-
-Node* buildTree() {
-    int data;
-    cout << "Enter data (-1 for no node): ";
-    cin >> data;
-
-    if (data == -1)
-        return nullptr;
-
-    Node* root = new Node(data);
-
-    cout << "Enter left child of " << data << endl;
-    root->left = buildTree();
-
-    cout << "Enter right child of " << data << endl;
-    root->right = buildTree();
-
-    return root;
+int main(){
+    vector<int> preArr={1,2,-1,-1,3,4,-1,-1,5,-1,-1};
+    node root(preArr[0]);
+    node* TreeRoot=root.BuildTree(preArr);
+    node* temp=TreeRoot;
+    cout<<temp->data<<endl<<temp->right->data<<endl<<temp->left->data;
+    // while(temp!=NULL){
+    //     cout<<temp->data;
+    //     temp=temp->right;
+    // }
 }
-
-// Just to verify your tree isn’t imaginary
-void inorder(Node* root) {
-    if (root == nullptr) return;
-
-    inorder(root->left);
-    cout << root->data << " ";
-    inorder(root->right);
-}
-
-int main() {
-    Node* root = nullptr;
-
-    root = buildTree();
-
-    cout << "Inorder traversal: ";
-    inorder(root);
-    cout << endl;
-
-    return 0;
-}
+//this is the main program to define a tree from a preorder sequence given with -1 as null node.
