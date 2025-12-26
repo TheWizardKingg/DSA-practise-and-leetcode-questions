@@ -86,7 +86,7 @@ Author - Mohit Sharma
 
 **20-Dec-2025 :** [First time felt what burnout mean, bro, today is an off day, also, starting AIML from today, i am gonna make a new repo tomorrow maybe, or may add .py files in this one, cause who cares -_-]
 
-**21-Dec-2025 :** -> **25-Dec-2025 :** **:** [Learning ML and making ML projects] i am learning ML/DL in this free time (exam time actually :P) and gonna make projects for the couple of days from now on, i will start DSA once i get a good grasp in development area instead of just DSA, cause only DSA is not gonna take me anywhere
+**21-Dec-2025 :** -> **26-Dec-2025 :** **:** [Learning ML and making ML projects] i am learning ML/DL in this free time (exam time actually :P) and gonna make projects for the couple of days from now on, i will start DSA once i get a good grasp in development area instead of just DSA, cause only DSA is not gonna take me anywhere
 
 
 
