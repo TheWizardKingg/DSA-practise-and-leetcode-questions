@@ -25,3 +25,7 @@ int main(){
     }
     return 0;
 }
+
+//keep dividing by 10, store remainder, make a rev variable, multiply it by 10 and add rem
+//repeat this process and keep updating/dividing the num by 10 until it becomes zero. then compare the original number with the rev variable
+//if they are equal then it's a palindrome otherwise it's not.
