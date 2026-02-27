@@ -88,6 +88,8 @@ Author - Mohit Sharma
 
 **21-Dec-2025 :** -> **26-Dec-2025 :** **:** [Learning ML and making ML projects] i am learning ML/DL in this free time (exam time actually :P) and gonna make projects for the couple of days from now on, i will start DSA once i get a good grasp in development area instead of just DSA, cause only DSA is not gonna take me anywhere
 
+**I AM GOING TO RESTART MY JOURNEY, AND WILL MAKE IT EASIER FOR ME TO UNDERSTAND THE CODE IN THE FUTURE**
+
 
 
 
