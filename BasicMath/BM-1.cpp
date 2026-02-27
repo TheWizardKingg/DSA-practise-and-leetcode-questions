@@ -11,6 +11,9 @@ int countDigitsOfNumber(int num){
 
 }
 int countDigitsOfNumberUsingLog(int num){
+    if(num==0){
+        return 1;
+    }
     return (int)log10(num)+1;
 }
 int main(){
