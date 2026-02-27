@@ -90,6 +90,7 @@ Author - Mohit Sharma
 
 **I AM GOING TO RESTART MY JOURNEY, AND WILL MAKE IT EASIER FOR ME TO UNDERSTAND THE CODE IN THE FUTURE**
 
+**27-Feb-2026 :** [Count the digits in a number (BM-1.cpp)]
 
 
 
