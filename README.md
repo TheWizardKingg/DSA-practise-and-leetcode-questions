@@ -92,7 +92,7 @@ Author - Mohit Sharma
 
 **27-Feb-2026 :** (BasicMath)[Count the digits in a number (BM-1.cpp)], [Reverse the number (BM-2.cpp)],
 [Palindrome or not (BM-3.cpp)], [HCF or GCD of two numbers by recursion (BM-4.cpp)], [Armstrong number (BM-5.cpp)], [Print all divisors (BM-6.cpp)], [Prime or not (BM-7.cpp)] **STREAK DAY-1**
-**28-Feb-2026 :** (BasicRecursion)[Print n times using recursion (BR-1.cpp)] 
+**28-Feb-2026 :** (BasicRecursion)[Print n times / Sum of n natural numbers using recursion (BR-1.cpp)]
 
 
 
