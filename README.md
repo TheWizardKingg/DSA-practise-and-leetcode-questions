@@ -95,7 +95,7 @@ Author - Mohit Sharma
 
 **28-Feb-2026 :** (BasicRecursion)[Print n times / Sum of n natural numbers using recursion (BR-1.cpp)], [Factorial of a number using recursion (BR-2.cpp)], [reverse the array using recursion (BR-3.cpp)] **STREAK DAY-2**
 
-**1-March-2026 :** (BasicRecursion)[check if string is palindrome or not (BR-4.cpp)] **STREAK DAY-3**
+**1-March-2026 :** (BasicRecursion)[check if string is palindrome or not (BR-4.cpp)], [Fibonacci using recursion (BR-5.cpp)] **STREAK DAY-3**
 
 
 
