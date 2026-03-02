@@ -97,7 +97,7 @@ Author - Mohit Sharma
 
 **1-March-2026 :** (BasicRecursion)[check if string is palindrome or not (BR-4.cpp)], [Fibonacci using recursion (BR-5.cpp)] **STREAK DAY-3**
 
-
+**2-March-2026 :** (BasicHashing)[counting frequencies of elements in an array (BH-1.cpp)] **STREAK DAY-4**
 
 
 
