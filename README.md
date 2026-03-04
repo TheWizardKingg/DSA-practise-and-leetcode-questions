@@ -99,7 +99,9 @@ Author - Mohit Sharma
 
 **2-March-2026 :** (BasicHashing)[counting frequencies of elements in an array (BH-1.cpp)] **STREAK DAY-4**
 
-**3-March-2026 :** EMPTY DAY (today won't count, and any repetition will break the streak)
+**3-March-2026 :** EMPTY DAY (today won't count, and any repetition will break the streak) **STREAK DAY-5**
+
+**4-March-2026 :** (BasicHashing)[implementing Hashing from scratch (BH-2.cpp)] **STREAK DAY-6**
 
 
 
