@@ -90,20 +90,21 @@ Author - Mohit Sharma
 
 **I AM GOING TO RESTART MY JOURNEY, AND WILL MAKE IT EASIER FOR ME TO UNDERSTAND THE CODE IN THE FUTURE**
 
-**27-Feb-2026 :** (BasicMath)[Count the digits in a number (BM-1.cpp)], [Reverse the number (BM-2.cpp)],
+**27-Feb-2026 :** (BasicMath)-[Count the digits in a number (BM-1.cpp)], [Reverse the number (BM-2.cpp)],
 [Palindrome or not (BM-3.cpp)], [HCF or GCD of two numbers by recursion (BM-4.cpp)], [Armstrong number (BM-5.cpp)], [Print all divisors (BM-6.cpp)], [Prime or not (BM-7.cpp)] **STREAK DAY-1**
 
-**28-Feb-2026 :** (BasicRecursion)[Print n times / Sum of n natural numbers using recursion (BR-1.cpp)], [Factorial of a number using recursion (BR-2.cpp)], [reverse the array using recursion (BR-3.cpp)] **STREAK DAY-2**
+**28-Feb-2026 :** (BasicRecursion)-[Print n times / Sum of n natural numbers using recursion (BR-1.cpp)], [Factorial of a number using recursion (BR-2.cpp)], [reverse the array using recursion (BR-3.cpp)] **STREAK DAY-2**
 
-**1-March-2026 :** (BasicRecursion)[check if string is palindrome or not (BR-4.cpp)], [Fibonacci using recursion (BR-5.cpp)] **STREAK DAY-3**
+**1-March-2026 :** (BasicRecursion)-[check if string is palindrome or not (BR-4.cpp)], [Fibonacci using recursion (BR-5.cpp)] **STREAK DAY-3**
 
-**2-March-2026 :** (BasicHashing)[counting frequencies of elements in an array (BH-1.cpp)] **STREAK DAY-4**
+**2-March-2026 :** (BasicHashing)-[counting frequencies of elements in an array (BH-1.cpp)] **STREAK DAY-4**
 
 **3-March-2026 :** EMPTY DAY (today won't count, and any repetition will break the streak) **NO COUNT**
 
-**4-March-2026 :** (BasicHashing)[implementing Hashing from scratch (BH-2.cpp)] **STREAK DAY-5**
+**4-March-2026 :** (BasicHashing)-[implementing Hashing from scratch (BH-2.cpp)] **STREAK DAY-5**
 
 **5-March-2026 :** EMPTY DAY (This is going to be my last EMPTY DAY) **NO COUNT**
 
+**6-March-2026 :** (SortingTechniques)-[Selection Sort Technique (SelectionSort.cpp)] **STREAK DAY-6**
 
 
