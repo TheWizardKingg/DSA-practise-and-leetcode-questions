@@ -105,6 +105,7 @@ Author - Mohit Sharma
 
 **5-March-2026 :** EMPTY DAY (This is going to be my last EMPTY DAY) **NO COUNT**
 
-**6-March-2026 :** (SortingTechniques)-[Selection Sort Technique (SelectionSort.cpp)] **STREAK DAY-6**
+**6-March-2026 :** (SortingTechniques)-[Selection Sort Technique (SelectionSort.cpp)], [Bubble Sort technique
+(BubbleSort.cpp)] **STREAK DAY-6**
 
 
