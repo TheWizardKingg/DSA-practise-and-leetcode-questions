@@ -112,4 +112,4 @@ Author - Mohit Sharma
 
 **10-March-2026 :** (SortingTechniques)-[Quick Sort Technique (QuickSort.cpp)], last two days, i moved everything to linux mint, that's why no commits T-T (this is my last chance of keeping the streak alive) **STREAK DAY-10**
 
-**11-March-2026 :** (Array)-[Largest Element in the array (LargestElement.cpp)] **STREAK DAY-11**
+**11-March-2026 :** (Array)-[Largest/Second Largest Element in the array (LargestAndSecondLargest.cpp)] **STREAK DAY-11**
