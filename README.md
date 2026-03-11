@@ -111,3 +111,5 @@ Author - Mohit Sharma
 **7-March-2026 :** (SortingTechniques)-[Insertion Sort Technique (InsertionSort.cpp)], [Merge Sort Technique (MergeSort.cpp)] **STREAK DAY-7**
 
 **10-March-2026 :** (SortingTechniques)-[Quick Sort Technique (QuickSort.cpp)], last two days, i moved everything to linux mint, that's why no commits T-T (this is my last chance of keeping the streak alive) **STREAK DAY-10**
+
+**11-March-2026 :** (Array)-[Largest Element in the array (LargestElement.cpp)] **STREAK DAY-11**
