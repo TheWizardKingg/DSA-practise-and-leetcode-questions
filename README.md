@@ -114,4 +114,4 @@ Author - Mohit Sharma
 
 **11-March-2026 :** (Array)-[Largest/Second Largest Element in the array (LargestAndSecondLargest.cpp)] **STREAK DAY-11**
 
-**12-March-2026 :** (Array)-[Array is already sorted or not (IfArrayAlreadySorted.cpp)], [Remove Duplicates from array (RemoveDuplicates.cpp)] **STREAK DAY-12**
+**12-March-2026 :** (Array)-[Array is already sorted or not (IfArrayAlreadySorted.cpp)], [Remove Duplicates from array (RemoveDuplicates.cpp)], [Left rotation of array by one (LeftRotatingArray.cpp)] **STREAK DAY-12**
