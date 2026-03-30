@@ -117,3 +117,7 @@ Author - Mohit Sharma
 **12-March-2026 :** (Array)-[Array is already sorted or not (IfArrayAlreadySorted.cpp)], [Remove Duplicates from array (RemoveDuplicates.cpp)], [Left rotation of array by one (LeftRotatingArray.cpp)] **STREAK DAY-12**
 
 **13-March-2026 :** (Array)-[rotating the array by k places in left or right direction (OffsetArrayRotation.cpp)], [Move the zeoes to the end of array (MoveZeroesToEnd.cpp)], [Linear search program (LinearSearch.cp)], [Union of two sorted arrays (SortedArraysUnion.cpp)] **STREAK DAY-13**
+
+**============================================ STREAK-RESET =================================================**
+
+**30-March-2026 :** (Array)-[Finding Missing number in the array (FindMissingNumber.cpp)] so, basically, my linux got corrupted, my exams started, i started using triple boot on my laptop! so many things, i got caught slacking (-_-')    my bad!! will try my best again! **STREAK-DAY-1**
