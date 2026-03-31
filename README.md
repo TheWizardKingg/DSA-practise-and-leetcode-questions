@@ -123,4 +123,4 @@ Author - Mohit Sharma
 **30-March-2026 :** (Array)-[Finding Missing number in the array (FindMissingNumber.cpp)] so, basically, my linux got corrupted, my exams started, i started using triple boot on my laptop! so many things, i got caught slacking (-_-')    my bad!! will try my best again!
  **STREAK-DAY-1**
 
- **31-March-2026 :** (Array)-[Finding Maximum number of ones occuring together in an array (MaximumConsecutiveOnes.cpp)], [Find unique element among duplicates in the array (UniqueInDuplicates.cpp)] **STREAK-DAY-2**
+ **31-March-2026 :** (Array)-[Finding Maximum number of ones occuring together in an array (MaximumConsecutiveOnes.cpp)], [Find unique element among duplicates in the array (UniqueInDuplicates.cpp)], [Find the size of longest Subarray which sums upto k (LongestSubarraySumK.cpp)]**STREAK-DAY-2**
