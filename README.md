@@ -124,3 +124,5 @@ Author - Mohit Sharma
  **STREAK-DAY-1**
 
  **31-March-2026 :** (Array)-[Finding Maximum number of ones occuring together in an array (MaximumConsecutiveOnes.cpp)], [Find unique element among duplicates in the array (UniqueInDuplicates.cpp)], [Find the size of longest Subarray which sums upto k (LongestSubarraySumK.cpp)]**STREAK-DAY-2**
+
+ **1-April-2026 :** (Array)-[Return the indices of any two elements which when addead are equal to the target (TwoSum.cpp)] **STREAK DAY-3**
