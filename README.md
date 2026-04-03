@@ -128,3 +128,5 @@ Author - Mohit Sharma
  **1-April-2026 :** (Array)-[Return the indices of any two elements which when addead are equal to the target (TwoSum.cpp)] **STREAK DAY-3**
 
  **2-April-2026 :** (Array)-[Sort the array containing 0,1,2 (SortArray012.cpp)], [Majority element finding (MajorityElement.cpp)] **STREAK-DAY-4**
+
+ **3-April-2026 :** (Array)-[Kadane's algorithm to find Maximum subarray's sum (MaximumSubarraySum.cpp)] **STREAK-DAY-5**
