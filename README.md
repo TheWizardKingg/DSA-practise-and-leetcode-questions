@@ -130,3 +130,5 @@ Author - Mohit Sharma
  **2-April-2026 :** (Array)-[Sort the array containing 0,1,2 (SortArray012.cpp)], [Majority element finding (MajorityElement.cpp)] **STREAK-DAY-4**
 
  **3-April-2026 :** (Array)-[Kadane's algorithm to find Maximum subarray's sum (MaximumSubarraySum.cpp)] **STREAK-DAY-5**
+
+ **4-April-2026 :** {This is an empty day} **STREAK-DAY-5**
