@@ -132,3 +132,5 @@ Author - Mohit Sharma
  **3-April-2026 :** (Array)-[Kadane's algorithm to find Maximum subarray's sum (MaximumSubarraySum.cpp)] **STREAK-DAY-5**
 
  **4-April-2026 :** {This is an empty day} **STREAK-DAY-5**
+
+ **5-April-2026 :** (Array)-[Finding the maximum sum subarray (FindMaxSumSubarray.cpp)] **STREAK-DAY-6**
