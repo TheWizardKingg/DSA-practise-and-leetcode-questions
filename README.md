@@ -134,3 +134,5 @@ Author - Mohit Sharma
  **4-April-2026 :** {This is an empty day} **STREAK-DAY-5**
 
  **5-April-2026 :** (Array)-[Finding the maximum sum subarray (FindMaxSumSubarray.cpp)] **STREAK-DAY-6**
+
+ **6-April-2026 :** (Array)-[Finding the maximum profit in stocks (StockBuyAndSell.cpp)] **STREAK-DAY-7**
