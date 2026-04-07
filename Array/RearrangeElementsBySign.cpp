@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-vector<int> rearrangeArray(vector<int>& nums) {
+vector<int> rearrangeArray1(vector<int>& nums) {
     int positive=0, negative=0;                     //just make two pointers (one for first occuring positive element, one for first occuring negative element)
 
     vector<int> ans;
@@ -22,12 +22,39 @@ vector<int> rearrangeArray(vector<int>& nums) {
     }
     return ans;       
 
-    
 }
+
+vector<int> rearrangeArray2(vector<int>& nums){
+    vector<int> ans(nums.size(), 0);         //we just initialize the answer vector with zeroes of size equal to that of nums
+    int odd=1;                               //keeps the track of negative elements (which will always be coming in odd indices)
+    int even=0;                              //keeps the track of positive elements (which will always be coming in even indices)
+
+    for(int i=0; i<nums.size(); i++){
+        if(nums[i]<0){
+            ans[odd]=nums[i];
+            odd+=2;                          //increment by 2 since it is odd index pointer
+        }
+        if(nums[i]>=0){
+            ans[even]=nums[i];
+            even+=2;                         //increment by 2 since it is also even index pointer
+        }
+    }
+    return ans;
+}
+
 int main(){
     vector<int> nums = {3,1,-2,-5,2,-4};
-    vector<int> ans = rearrangeArray(nums);
-    for(int i=0; i<ans.size(); i++){
-        cout<<ans[i]<<" ";
+    vector<int> ans1 = rearrangeArray1(nums);
+    cout<<"Answer by two pointers approach:-"<<endl;
+    for(int i=0; i<ans1.size(); i++){
+        cout<<ans1[i]<<" ";
+    }
+    
+    cout<<endl;
+
+    vector<int> ans2 = rearrangeArray2(nums);
+    cout<<"Answer by step 2 indexing approach:-"<<endl;
+    for(int i=0; i<ans2.size(); i++){
+        cout<<ans2[i]<<" ";
     }
 }
