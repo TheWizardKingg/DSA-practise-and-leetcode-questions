@@ -138,3 +138,5 @@ Author - Mohit Sharma
  **6-April-2026 :** (Array)-[Finding the maximum profit in stocks (StockBuyAndSell.cpp)] **STREAK-DAY-7**
 
  **7-April-2026 :** (Array)-[Rearrange array elements by sign keeping the original order (two pointers && step=2 indexing) (RearrangeElementsBySign.cpp)] **STREAK-DAY-8**
+
+ **8-April-2026 :** (Array)-[Lexicographically next permutation of array element's sequence (NextPermutation.cpp)] **STREAK-DAY-9**
