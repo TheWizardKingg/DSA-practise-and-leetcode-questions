@@ -140,3 +140,5 @@ Author - Mohit Sharma
  **7-April-2026 :** (Array)-[Rearrange array elements by sign keeping the original order (two pointers && step=2 indexing) (RearrangeElementsBySign.cpp)] **STREAK-DAY-8**
 
  **8-April-2026 :** (Array)-[Lexicographically next permutation of array element's sequence (NextPermutation.cpp)] **STREAK-DAY-9**
+
+ **9-April-2026 :** (Array)-[Finding the maximum consecutive sequence in an array (**INCOMPLETE**) (FindMaxConsecutiveSequence.cpp)] **STREAK-DAY-10**
