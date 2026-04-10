@@ -142,3 +142,5 @@ Author - Mohit Sharma
  **8-April-2026 :** (Array)-[Lexicographically next permutation of array element's sequence (NextPermutation.cpp)] **STREAK-DAY-9**
 
  **9-April-2026 :** (Array)-[Finding the maximum consecutive sequence in an array (**INCOMPLETE**) (FindMaxConsecutiveSequence.cpp)] **STREAK-DAY-10**
+
+ **10-April-2026 :** {This is again an empty day} **STREAK-DAY-10**
