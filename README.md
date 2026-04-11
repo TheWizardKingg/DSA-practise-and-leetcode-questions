@@ -144,3 +144,5 @@ Author - Mohit Sharma
  **9-April-2026 :** (Array)-[Finding the maximum consecutive sequence in an array (**INCOMPLETE**) (FindMaxConsecutiveSequence.cpp)] **STREAK-DAY-10**
 
  **10-April-2026 :** {This is again an empty day} **STREAK-DAY-10**
+
+ **11-April-2026 :** {Halloumi boxes (codeforces)} **STREAK-DAY-11**
