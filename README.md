@@ -146,3 +146,5 @@ Author - Mohit Sharma
  **10-April-2026 :** {This is again an empty day} **STREAK-DAY-10**
 
  **11-April-2026 :** {Halloumi boxes (codeforces)} **STREAK-DAY-11**
+
+ **12-April-2026 :** {FindMaxConsecutiveSequence.cpp} **STREAK-DAY-12**
