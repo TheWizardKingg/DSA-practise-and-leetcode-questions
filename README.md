@@ -148,3 +148,5 @@ Author - Mohit Sharma
  **11-April-2026 :** {Halloumi boxes (codeforces)} **STREAK-DAY-11**
 
  **12-April-2026 :** {FindMaxConsecutiveSequence.cpp} **STREAK-DAY-12**
+
+ **13-April-2026 :** (Array)-[Finding the size of maximum consecutive sequence in array (**COMPLETE**) (FindMaxConsecutiveSequence.cpp)] **STREAK-DAY-13**
