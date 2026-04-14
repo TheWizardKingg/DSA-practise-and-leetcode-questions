@@ -150,3 +150,5 @@ Author - Mohit Sharma
  **12-April-2026 :** {FindMaxConsecutiveSequence.cpp} **STREAK-DAY-12**
 
  **13-April-2026 :** (Array)-[Finding the size of maximum consecutive sequence in array (**COMPLETE**) (FindMaxConsecutiveSequence.cpp)] **STREAK-DAY-13**
+
+ **14-April-2026 :** (Array)-[Set entire row, column of a zero in a matrix into zeroes (SetMatrixZeroes.cpp)] **STREAK-DAY-14**
