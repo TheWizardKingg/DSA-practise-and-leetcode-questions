@@ -154,3 +154,5 @@ Author - Mohit Sharma
  **14-April-2026 :** (Array)-[Set entire row, column of a zero in a matrix into zeroes {brute force} (SetMatrixZeroes.cpp)] **STREAK-DAY-14**
 
  **15-April-2026 :** (Array)-[SetMatrixZeroes.cpp (**incomplete**), man the optimal approach is wierd -_-'] **STREAK-DAY-15**
+
+ **16-April-2026 :** (Array)-[SetMatrixZeroes.cpp (**incomplete**), unfortunately, i wasn't able to give much attention to it today either! T-T'] **STREAK-DAY-16**
