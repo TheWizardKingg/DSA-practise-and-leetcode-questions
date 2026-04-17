@@ -156,3 +156,5 @@ Author - Mohit Sharma
  **15-April-2026 :** (Array)-[SetMatrixZeroes.cpp (**incomplete**), man the optimal approach is wierd -_-'] **STREAK-DAY-15**
 
  **16-April-2026 :** (Array)-[SetMatrixZeroes.cpp (**incomplete**), unfortunately, i wasn't able to give much attention to it today either! T-T'] **STREAK-DAY-16**
+
+ **17-April-2026 :** (Array)-[yo, i am droping this problem, its wierd (SetMatrixZeroes.cpp)] **STREAK-DAY-17**
