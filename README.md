@@ -161,4 +161,4 @@ Author - Mohit Sharma
 
  **18-April-2026 :** {This is an empty day, it won't be counted} **STREAK-DAY-17**
 
- **19-April-2026 :** (Array)-[Rotating matrix by 90 Degrees (RotateMatrixBy90Degree.cpp)] **STREAK-DAY-18**
+ **19-April-2026 :** (Array)-[Rotating matrix by 90 Degrees (RotateMatrixBy90Degree.cpp)], [return matrix elements in spiral manner (SpiralMatrix.cpp)] **STREAK-DAY-18**
