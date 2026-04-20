@@ -162,3 +162,5 @@ Author - Mohit Sharma
  **18-April-2026 :** {This is an empty day, it won't be counted} **STREAK-DAY-17**
 
  **19-April-2026 :** (Array)-[Rotating matrix by 90 Degrees (RotateMatrixBy90Degree.cpp)], [return matrix elements in spiral manner (SpiralMatrix.cpp)] **STREAK-DAY-18**
+
+ **20-April-2026 :** (Array)-[Count number of subarrays whose sum equal K (CountSubarraysSumK.cpp)] **STREAK-DAY-19**
