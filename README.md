@@ -170,3 +170,5 @@ Author - Mohit Sharma
  **22-April-2026 :** ######################## **REVISION (2/3 DAYS)** ######################## **STREAK-DAY-19**
 
  **23-April-2026 :** ######################## **REVISION (3/3 DAYS)** ######################## **STREAK-DAY-19**
+
+ **24-April-2026 :** {This is an empty day, This will hit a negative in my streak} **STREAK-DAY-18**
