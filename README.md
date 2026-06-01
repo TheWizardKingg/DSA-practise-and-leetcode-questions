@@ -174,3 +174,7 @@ Author - Mohit Sharma
  **24-April-2026 :** {This is an empty day, This will hit a negative in my streak} **STREAK-DAY-18**
 
  **25-April-2026 :** (Array)-[Pascal triangle formation (pascalTriangle.cpp)] **STREAK-DAY-19**
+
+ *******************************************STREAK-RESET (Due to exams)***********************************************
+
+ **1-June-2026 :** {This is the continuation of my DSA practise} **STREAK-DAY-1**
