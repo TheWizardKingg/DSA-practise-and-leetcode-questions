@@ -180,3 +180,5 @@ Author - Mohit Sharma
  **1-June-2026 :** {This is the continuation of my DSA practise, edit:- i again procrastinated -_-'} **STREAK-DAY-0**
 
  **8-June-2026 :** (Array)-{finding Majority element in the array which appears more than n/3 times (MajorityElement2.cpp)} **STREAK-DAY-1**
+
+ **9-June-2026 :** (Array)-{finding unique triplets whose sum==0 (ThreeSum.cpp) :P} **STREAK-DAY-2**
