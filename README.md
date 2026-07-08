@@ -192,3 +192,13 @@ Author - Mohit Sharma
  **WORKING ON CloveAI** **STREAK-DAY-4**
 
  **CloveAI project completed** **STREAK-DAY-4**
+
+ **CypherVision project Main module** Fire Detection System **COMPLETED** **STREAK-DAY-4**
+
+ **CypherVision project Secondary module** Gesture Controlled Automation **COMPLETED** **STREAK-DAY-4**
+
+ **Checkout my projects beside this repo on my profile**
+
+ **----------------- Finally, we are back on track! lets hope i don't reset this streak again as i always do ------------------**
+
+ **8-July-2026 :**(BinarySearch)-{Binary Search program, nothing much (BinarySearch.cpp)} **STREAK-DAY-5**
