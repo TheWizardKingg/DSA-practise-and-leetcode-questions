@@ -27,6 +27,33 @@ int LowerBound(vector<int> &nums, int target){
     }
     return nums.size();       //otherwise, retruning size as asked in question
 }
+
+int upperBound(vector<int> &nums, int target){
+    int start = 0 ;
+    int end = nums.size()-1;
+
+    while (start <= end){
+        int mid = start + (end-start)/2;     //prevent overflow condition
+
+        if (nums[mid] == target){
+            while(mid < nums.size()-1 && nums[mid+1] >= target){   //skip to the maximum index of the target
+                mid++;
+            }
+            return mid;
+
+        }else if (nums[mid] < target){
+            start = mid + 1;
+
+        }else if (nums[mid] > target){
+            while (mid!=0 && nums[mid-1] > target){
+                mid--;
+            }
+            return mid;
+        }
+    }
+    return nums.size();
+}
+
 int main(){
     vector<int> nums = {1, 2, 3, 4, 5};
     int target = 3;
