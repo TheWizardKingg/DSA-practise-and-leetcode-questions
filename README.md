@@ -201,4 +201,5 @@ Author - Mohit Sharma
 
  **----------------- Finally, we are back on track! lets hope i don't reset this streak again as i always do ------------------**
 
- **8-July-2026 :**(BinarySearch)-[Binary Search program, nothing much (BinarySearch.cpp), Lower Bound binary search algorithm (LowerBoundAlgo.cpp)] **STREAK-DAY-5**
+ **8-July-2026 :**(BinarySearch)-[Binary Search program, nothing much (BinarySearch.cpp), Lower Bound binary search algorithm (LowerBoundAlgo.cpp)], 
+ Upper Bound algorithm of binary search (LowerBoundUpperBound.cpp) **STREAK-DAY-5**
