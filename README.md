@@ -203,3 +203,5 @@ Author - Mohit Sharma
 
  **8-July-2026 :**(BinarySearch)-[Binary Search program, nothing much (BinarySearch.cpp), Lower Bound binary search algorithm (LowerBoundAlgo.cpp)], 
  Upper Bound algorithm of binary search (LowerBoundUpperBound.cpp) **STREAK-DAY-5**
+
+ **9-July-2026 :**(BinarySearch)-[find position where target should be (SearchInsertPosition.cpp)]**STREAK-DAY-6**
