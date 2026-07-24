@@ -205,3 +205,7 @@ Author - Mohit Sharma
  Upper Bound algorithm of binary search (LowerBoundUpperBound.cpp) **STREAK-DAY-5**
 
  **9-July-2026 :**(BinarySearch)-[find position where target should be (SearchInsertPosition.cpp), finding Floor and Ceil value in sorted array (FloorCeilSortedArray.cpp)]**STREAK-DAY-6**
+
+ **----------------- Fckk me, i got sick, and had to drop the streak again, lets reset ------------------------------**
+
+ **24-July-2026 :**(BinarySearch)-[First and last occurence of the element in array (ElementRange.cpp)]**STREAK-DAY-1**
