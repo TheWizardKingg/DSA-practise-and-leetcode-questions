@@ -208,4 +208,4 @@ Author - Mohit Sharma
 
  **----------------- Fckk me, i got sick, and had to drop the streak again, lets reset ------------------------------**
 
- **24-July-2026 :**(BinarySearch)-[First and last occurence of the element in array (ElementRange.cpp)]**STREAK-DAY-1**
+ **24-July-2026 :**(BinarySearch)-[First and last occurence of the element in array (ElementRange.cpp), Total occurrences of element in array(TotalOccurrences.cpp)]**STREAK-DAY-1**
