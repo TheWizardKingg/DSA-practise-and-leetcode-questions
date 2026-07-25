@@ -210,4 +210,4 @@ Author - Mohit Sharma
 
  **24-July-2026 :**(BinarySearch)-[First and last occurence of the element in array (ElementRange.cpp), Total occurrences of element in array(TotalOccurrences.cpp), Search element in rotated sorted array (SearchInRotatedSortedArr.cppse)]**STREAK-DAY-1**
 
- **25-July-2026 :**(BinarySearch)-[Search element in Rotated Sorted Array having duplicates (SearchInRotatedSOrtedArr2.cpp)]**STREAK-DAY-2**
+ **25-July-2026 :**(BinarySearch)-[Search element in Rotated Sorted Array having duplicates (SearchInRotatedSOrtedArr2.cpp), Find minimum element in rotated sorted array (MiniEleInRotatedSortedArr.cpp)]**STREAK-DAY-2**
