@@ -8,7 +8,7 @@ int singleNonDuplicate(vector<int>& nums) {
     if(nums.size()==1) return nums[0];
     if(nums.size()>=2 && nums[0]!=nums[1]) return nums[0];
 
-    while(start<=end){
+    while(start<=end){    //XOR trick does this in O(n), but we were asked to do it in O(Log n), hence we are using binary search
         int mid=start+(end-start)/2;
 
         if (mid%2 == 0){      //single element can only lie on even index, hence, if even indices element's pair is not equal, then its single
