@@ -212,4 +212,4 @@ Author - Mohit Sharma
 
  **25-July-2026 :**(BinarySearch)-[Search element in Rotated Sorted Array having duplicates (SearchInRotatedSOrtedArr2.cpp), Find minimum element in rotated sorted array (MiniEleInRotatedSortedArr.cpp)]**STREAK-DAY-2**
 
- **26-July-2026 :**(BinarySearch)-[find K right rotations in a sorted array (findKRotations.cpp), find single element in sorted duplicates array (findSingleElement.cpp)]**STREAK-DAY-3**
+ **26-July-2026 :**(BinarySearch)-[find K right rotations in a sorted array (findKRotations.cpp), find single element in sorted duplicates array in O(Log n) (findSingleElement.cpp)]**STREAK-DAY-3**
