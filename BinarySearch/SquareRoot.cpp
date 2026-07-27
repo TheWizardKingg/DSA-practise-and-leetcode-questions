@@ -11,11 +11,11 @@ int floorSqrt(int n)  {
     while(start<=end){
         mid=start+(end-start)/2;
 
-        if(mid*mid == n){
+        if(mid*mid == n){   //if sqare of mid is equal to n, then return mid
             return mid;
-        }else if(mid*mid < n){
+        }else if(mid*mid < n){    //if square of mid is lesser than n, we need to search in right half of array from 1 to n
             start=mid+1;
-        }else if(mid*mid > n){
+        }else if(mid*mid > n){    //if square of mid is greater than n, we need to search in left half of array from 1 to n
             end=mid-1;
         }
     }
