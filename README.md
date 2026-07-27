@@ -214,4 +214,4 @@ Author - Mohit Sharma
 
  **26-July-2026 :**(BinarySearch)-[find K right rotations in a sorted array (findKRotations.cpp), find single element in sorted duplicates array in O(Log n) (findSingleElement.cpp)]**STREAK-DAY-3**
 
- **27-July-2026 :**(BinarySearch)-[Finding peak element in the array via binary search (findPeakElement.cpp)]**STREAK-DAY-4**
+ **27-July-2026 :**(BinarySearch)-[Finding peak element in the array via binary search (findPeakElement.cpp), Finding sqaure root of an element (SqaureRoot.cpp)]**STREAK-DAY-4**
