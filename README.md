@@ -216,4 +216,4 @@ Author - Mohit Sharma
 
  **27-July-2026 :**(BinarySearch)-[Finding peak element in the array via binary search (findPeakElement.cpp), Finding sqaure root of an element (SqaureRoot.cpp)]**STREAK-DAY-4**
 
- **28-July-2026 :**(BinarySearch)-[Finding Nth root of a number(NthRootOfNumber.cpp)]**STREAK-DAY-5**
+ **28-July-2026 :**(BinarySearch)-[Finding Nth root of a number(NthRootOfNumber.cpp), Koko Eating Bananas via binary search (KokoEatingBananas.cpp)]**STREAK-DAY-5**
