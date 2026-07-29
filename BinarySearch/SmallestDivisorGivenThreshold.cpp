@@ -19,7 +19,7 @@ int smallestDivisor(vector<int>& nums, int threshold) {
 
     for (int x: nums){       //find the maximum element for the maximum value of binary search range
         maxEle=max(maxEle, x);
-    }
+    }    //no maximum element since threshold can also be greater
 
     int start=1;
     int end=maxEle;
