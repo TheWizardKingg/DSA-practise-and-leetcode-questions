@@ -5,19 +5,19 @@ using namespace std;
 
 bool isValid(int divisor, int threshold, vector<int>& nums){
 
-    long long sum=0;
+    long long sum=0;    //to prevent sum overflow
 
     for(int x: nums){
         sum += (x + divisor -1) / divisor;   //ceiling formulae for division (TheWizardKingg's code btw)
-        if(sum > threshold) return false;
+        if(sum > threshold) return false;     //early return if sum > threshold
     }
-    return sum <= threshold;
+    return sum <= threshold;    //return true if sum <= threshold otherwise false
 }
 
 int smallestDivisor(vector<int>& nums, int threshold) {
     int maxEle=INT_MIN;
 
-    for (int x: nums){
+    for (int x: nums){       //find the maximum element for the maximum value of binary search range
         maxEle=max(maxEle, x);
     }
 
@@ -28,10 +28,10 @@ int smallestDivisor(vector<int>& nums, int threshold) {
     while(start<=end){
         int mid=start+(end-start)/2;
 
-        if(isValid(mid, threshold, nums)){
+        if(isValid(mid, threshold, nums)){  //if current mid value is valid, save it and then try finding an even smaller value (if any) 
             answer=mid;
             end=mid-1;
-        }else{
+        }else{          //if current mid value is not vaid, then try finding a larger value (if any)
             start=mid+1;
         }
     }
