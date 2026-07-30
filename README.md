@@ -220,4 +220,4 @@ Author - Mohit Sharma
 
  **29-July-2026 :**(BinarySearch)-[Find minimum days needed to make M bouquets from k adjacent flowers via binary Search (MinimumDaysForMBouquets.cpp), find the smallest divisor so that whole array's division sum <= threshold (SmallestDivisorGivenThreshold.cpp)]**STREAK-DAY-6**
 
- **30-July-2026 :**(BinarySearch)-[Find the minimum capacity of the ship to carry packages within D days (ShipPackageInDDays.cpp)]**STREAK-DAY-7**
+ **30-July-2026 :**(BinarySearch)-[Find the minimum capacity of the ship to carry packages within D days (ShipPackageInDDays.cpp), Find the Kth missing number in the array (KthMissingNumber.cpp) normal counter approach]**STREAK-DAY-7**
