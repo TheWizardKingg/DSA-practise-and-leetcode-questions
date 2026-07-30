@@ -219,3 +219,5 @@ Author - Mohit Sharma
  **28-July-2026 :**(BinarySearch)-[Finding Nth root of a number(NthRootOfNumber.cpp), Koko Eating Bananas via binary search (KokoEatingBananas.cpp)]**STREAK-DAY-5**
 
  **29-July-2026 :**(BinarySearch)-[Find minimum days needed to make M bouquets from k adjacent flowers via binary Search (MinimumDaysForMBouquets.cpp), find the smallest divisor so that whole array's division sum <= threshold (SmallestDivisorGivenThreshold.cpp)]**STREAK-DAY-6**
+
+ **30-July-2026 :**(BinarySearch)-[Find the minimum capacity of the ship to carry packages within D days (ShipPackageInDDays.cpp)]**STREAK-DAY-7**
