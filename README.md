@@ -222,4 +222,4 @@ Author - Mohit Sharma
 
  **30-July-2026 :**(BinarySearch)-[Find the minimum capacity of the ship to carry packages within D days (ShipPackageInDDays.cpp), Find the Kth missing number in the array (KthMissingNumber.cpp) normal counter approach]**STREAK-DAY-7**
 
- **31-July-2026 :**(BinarySearch)-[Find the maximum possible minimum distance between any two agressive cows (AgressiveCows.cpp)]**STREAK-DAY-8**
+ **31-July-2026 :**(BinarySearch)-[Find the maximum possible minimum distance between any two agressive cows (AgressiveCows.cpp), find the minimum pages allocated to a student in worst case (BookAllocation.cpp)]**STREAK-DAY-8**
