@@ -9,7 +9,7 @@ bool isValid(int maxPages, int students, vector<int> &nums){
 
     for(int i=0; i<nums.size(); i++){
 
-        if(totalPages + nums[i] <= maxPages){    
+        if(totalPages + nums[i] <= maxPages){    //if total pages exceed the current maximum pages, then reset and increase totalStudents needed
             totalPages += nums[i];
         }else{
             actualStudents++;
@@ -17,7 +17,7 @@ bool isValid(int maxPages, int students, vector<int> &nums){
         }
     }
 
-    return actualStudents <= students;
+    return actualStudents <= students;   //eventually, if according to the current maximum students needed exceed the maximum allowed students, return false, otherwise true
 }
 
 int findPages(vector<int> &nums, int m)  {
