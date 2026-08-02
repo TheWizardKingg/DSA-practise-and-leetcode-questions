@@ -225,3 +225,5 @@ Author - Mohit Sharma
  **31-July-2026 :**(BinarySearch)-[Find the maximum possible minimum distance between any two agressive cows (AgressiveCows.cpp), find the minimum pages allocated to a student in worst case (BookAllocation.cpp)]**STREAK-DAY-8**
 
  **1-August-2026 :**(BinarySearch)-[minimize the maximum sum of any subarray in original array (SplitArrayLargestSum.cpp)]**STREAK-DAY-9**
+
+ **2-August-2026 :**(BinarySearch)-[Find the minimum time required to paint the biggest board by painter's partition (PaintersPartitionProblem.cpp)]**STREAK-DAY-10**
