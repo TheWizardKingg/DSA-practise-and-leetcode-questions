@@ -229,3 +229,5 @@ Author - Mohit Sharma
  **2-August-2026 :**(BinarySearch)-[Find the minimum time required to paint the biggest board by painter's partition (PaintersPartitionProblem.cpp)]**STREAK-DAY-10**
 
  **3-August-2026 :**(BinarySearch)-[minimize the maximum distance between gas stations after putting k new ones **INCOMPLETE, NOT AVAILABLE ON LEETCODE (PREMIUM)**]**STREAK-DAY-11**
+
+ **4-August-2026 :**(BinarySearch)-[Find the median of two combined sorted arrays (MedianOfTwoSortedArr.cpp)]**STREAK-DAY-12**
