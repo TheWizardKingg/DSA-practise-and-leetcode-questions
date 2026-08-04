@@ -10,8 +10,8 @@ double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
     if (nums1.size() > nums2.size())
         return findMedianSortedArrays(nums2, nums1);
 
-    int m = nums1.size();
-    int n = nums2.size();
+    int m = nums1.size();          //This solution is AI generated, so next time, try doing it urself
+    int n = nums2.size();          //TheWizardKingg
 
     int low = 0;
     int high = m;
