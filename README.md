@@ -232,4 +232,4 @@ Author - Mohit Sharma
 
  **4-August-2026 :**(BinarySearch)-[Find the median of two combined sorted arrays (MedianOfTwoSortedArr.cpp)]**STREAK-DAY-12**
 
- **5-August-2026 :**(BinarySearch)-[Find the row with maximum number of 1s in matrix (FindRowWithMax1s.cpp)]**STREAK-DAY-13**
+ **5-August-2026 :**(BinarySearch)-[Find the row with maximum number of 1s in matrix (FindRowWithMax1s.cpp), Find the target in the 2D matrix in O(log(m*n)), (Search2Dmatrix.cpp)]**STREAK-DAY-13**
