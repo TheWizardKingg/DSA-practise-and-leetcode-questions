@@ -231,3 +231,5 @@ Author - Mohit Sharma
  **3-August-2026 :**(BinarySearch)-[minimize the maximum distance between gas stations after putting k new ones **INCOMPLETE, NOT AVAILABLE ON LEETCODE (PREMIUM)**]**STREAK-DAY-11**
 
  **4-August-2026 :**(BinarySearch)-[Find the median of two combined sorted arrays (MedianOfTwoSortedArr.cpp)]**STREAK-DAY-12**
+
+ **5-August-2026 :**(BinarySearch)-[Find the row with maximum number of 1s in matrix (FindRowWithMax1s.cpp)]**STREAK-DAY-13**
