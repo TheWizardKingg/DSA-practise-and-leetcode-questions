@@ -7,14 +7,14 @@ using namespace std;
 bool searchMatrix(vector<vector<int>>& nums, int target) {
     int m = nums.size();
     int n = nums[0].size();
-    int low = 0;
-    int high = m-1;
+    int low = 0;        //basically we're first gonna search over the rows to select the correct row which may contain the target, since matrix contains strictly increasing elements
+    int high = m-1;   
     
 
-    while(low <= high){
+    while(low <= high){  //this is the binary search for selecting the correct row 
         int middle = low + (high-low) / 2;
 
-        if(nums[middle][0] <= target && target <= nums[middle][n-1]){
+        if(nums[middle][0] <= target && target <= nums[middle][n-1]){    //if the target lies within the current row, then we shall perform another binary search in that row
 
             int start = 0;
             int end = n-1;
@@ -22,27 +22,27 @@ bool searchMatrix(vector<vector<int>>& nums, int target) {
             while(start <= end){
                 int mid = start + (end-start) / 2;
 
-                if(nums[middle][mid] == target){
+                if(nums[middle][mid] == target){     //traditional binary search, if we find target, return true, 
                     return true;
 
-                }else if(nums[middle][mid] < target){
+                }else if(nums[middle][mid] < target){      //if target < current element, then we move to the left
                     start = mid + 1;
-                }else{
+                }else{         //if target > current element, then we move to the right of the row
                     end = mid - 1;
                 }
             }
-            return false;
+            return false;  //if the target actually belongs to current selected row, but unfortunately doesn't exist, then we return false
             
-        }else if(nums[middle][0] > target){
+        }else if(nums[middle][0] > target){    //move to the previous row if target is lesser than first element of the current row
 
             high = middle - 1;
-        }else{
+        }else{    //move to the next row if the target is greater than the first element of the current row
 
             low = middle + 1;
         }
     } 
-    return false;
-}
+    return false;   //return false if the target doesn't even belong to any of the matrix rows, hence (target < first element of first row) or
+}                                                                                           //        (target > last element of the last row)
 
 int main(){
     vector<vector<int>> nums = {{1, 3, 5, 7},
