@@ -4,7 +4,7 @@
 #include<climits>
 using namespace std;
 
-bool searchMatrix(vector<vector<int>>& nums, int target) {
+bool searchMatrix(vector<vector<int>>& nums, int target) {    //O(log(m) + log(n)) == O(Log(m*n)) time complexity
     int m = nums.size();
     int n = nums[0].size();
     int low = 0;        //basically we're first gonna search over the rows to select the correct row which may contain the target, since matrix contains strictly increasing elements
