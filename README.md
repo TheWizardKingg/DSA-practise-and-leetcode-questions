@@ -234,4 +234,4 @@ Author - Mohit Sharma
 
  **5-August-2026 :**(BinarySearch)-[Find the row with maximum number of 1s in matrix (FindRowWithMax1s.cpp), Find the target in the 2D matrix in O(log(m*n)), (Search2Dmatrix.cpp)]**STREAK-DAY-13**
 
- **6-August-2026 :**(BinarySearch)-[Find target in 2D matrix in which all rows/columns are sorted independently (Search2Dmatrix-2.cpp)]**STREAK-DAY-14**
+ **6-August-2026 :**(BinarySearch)-[Find target in 2D matrix in which all rows/columns are sorted independently (Search2Dmatrix-2.cpp), Find the peak element in a 2D array in O(m Log(n)) (PeakElementIn2DMatrix.cpp)]**STREAK-DAY-14**
