@@ -23,6 +23,7 @@ string removeOuterParentheses(string s) {
             }
         }
     }
+    
     return answer;
 }
 
