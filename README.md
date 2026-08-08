@@ -237,3 +237,7 @@ Author - Mohit Sharma
  **6-August-2026 :**(BinarySearch)-[Find target in 2D matrix in which all rows/columns are sorted independently (Search2Dmatrix-2.cpp), Find the peak element in a 2D array in O(m Log(n)) (PeakElementIn2DMatrix.cpp)]**STREAK-DAY-14**
 
  **7-August-2026 :**(BinarySearch)-[Last problem in Binary Search (Median in a matrix)]**STREAK-DAY-15**
+
+ **--------------------------------------------STRINGS----------------------------------------------**
+
+ **8-August-2026 :**(Strings)-[Remove the outer parentheses and return the string (RemoveOuterParentheses.cpp)]**STREAK-DAY-16**
