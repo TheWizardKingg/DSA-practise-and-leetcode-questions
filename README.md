@@ -246,4 +246,6 @@ Author - Mohit Sharma
 
  **10-August-2026 :**(Strings)-[**INTENTIONAL GAP OF ONE DAY** only logic today]**STREAK-DAY-18**
 
- **11-August-2026 "**(Strings)-[Find the largest Odd substring in the given string (LargestOddSubString.cpp)]**STREAK-DAY-19**
+ **11-August-2026 :**(Strings)-[Find the largest Odd substring in the given string (LargestOddSubString.cpp)]**STREAK-DAY-19**
+
+ **12-August-2026 :**(Strings)-[Find the longest common prefix in all the strings (LongestCommonPrefix.cpp)]**STREAK-DAY-20**
