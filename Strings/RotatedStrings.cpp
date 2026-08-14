@@ -22,7 +22,7 @@ bool rotateString(string s, string goal) {
 
         }
     }
-    return false;   //return false if all the loops ran but didn't find any permutation of s in goal
+    return false;   //return false if all the loops ran but didn't find any permutation of s in goal string
 }
 
 int main(){
