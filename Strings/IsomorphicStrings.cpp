@@ -27,8 +27,8 @@ bool isIsomorphic(string s, string t) {
         }
 
         if(mp.find(s[i]) == mp.end() && mp2.find(t[i]) == mp2.end()){    //in case if both mapping don't exist primarily
-            mp.insert({s[i], t[i]});    //insert both simultaneously
-            mp2.insert({t[i], s[i]}); 
+            mp.insert({s[i], t[i]});    //insert both simultaneously for forward and reverse mapping 
+            mp2.insert({t[i], s[i]});   //one to one mapping
         }
 
 
