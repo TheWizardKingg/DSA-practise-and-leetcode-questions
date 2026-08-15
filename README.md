@@ -253,3 +253,5 @@ Author - Mohit Sharma
  **13-August-2026 :**(Strings)-[Check whether the given two strings are isomorphic or not (IsomorphicStrings.cpp)]**STREAK-DAY-21**
 
  **14-August-2026 :**(Strings)-[Check whether the given two strings are rotated or not (RotatedStrings.cpp), check whether the two given strings are Anagram or not (AnagramStrings.cpp)]**STREAK-DAY-22**
+
+ **15-August-2026 :**(Strings)-[Sort the string in decreasing order of the characters occurrence  (SortString.cpp)]**STREAK-DAY-23**
