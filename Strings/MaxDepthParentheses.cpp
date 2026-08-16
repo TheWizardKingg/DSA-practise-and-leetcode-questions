@@ -10,12 +10,12 @@ int maxDepth(string s) {
     int maxCounter = INT_MIN;
 
     for(int i=0; i<s.size(); i++){
-        if(s[i] == '(') counter++;
+        if(s[i] == '(') counter++;   //current iteration depth
         else if(s[i] == ')') counter--;
 
-        maxCounter = max(maxCounter, counter);
+        maxCounter = max(maxCounter, counter);   //store the maximum depth 
     }
-    return maxCounter;
+    return maxCounter; //return the maximum depth
 }
 
 int main() {
