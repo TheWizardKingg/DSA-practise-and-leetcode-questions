@@ -4,7 +4,7 @@
 using namespace std;
 
 int romanToInt(string s) {
-    map<char, int> mp = {
+    map<char, int> mp = {   //create a map to store all the fundamental mappings 
         {'I', 1},
         {'V', 5},
         {'X', 10},
@@ -17,15 +17,15 @@ int romanToInt(string s) {
     int sum = 0;
 
     for (int i = 0; i < s.size(); i++) {
-        if (i + 1 < s.size() && mp[s[i]] < mp[s[i + 1]]) {
+        if (i + 1 < s.size() && mp[s[i]] < mp[s[i + 1]]) {   //if current element is less valuable than the next one, then subtract it according to the pattern in roman numerals
             sum -= mp[s[i]];
         }
-        else {
+        else {   //if current element is more valuable than next one, then add it into the current sum
             sum += mp[s[i]];
         }
     }
 
-    return sum;
+    return sum;    //return the sum
 }
 
 int main() {
