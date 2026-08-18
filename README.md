@@ -259,3 +259,5 @@ Author - Mohit Sharma
  **16-August-2026 :**(Strings)-[Sort string characters based on their frequencies in decreasing order (SortCharactersByFreq.cpp), Find the maximum depth of parentheses in the string (MaxDepthParentheses.cpp), Convert Roman numbers into integers (RomanToInteger.cpp), [RomanToInteger.cpp via recursive approach]]**STREAK-DAY-24**
 
  **17-August-2026 :**(Strings)-[Convert string to integer (StoI) (StringToInteger.cpp)]**STREAK-DAY-25**
+
+ **18-August-2026 :**(Strings)-[find the longest palindromic substring (LongestPalindrome.cpp)]**STREAK-DAY-26**
