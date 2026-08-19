@@ -261,3 +261,5 @@ Author - Mohit Sharma
  **17-August-2026 :**(Strings)-[Convert string to integer (StoI) (StringToInteger.cpp)]**STREAK-DAY-25**
 
  **18-August-2026 :**(Strings)-[find the longest palindromic substring (LongestPalindrome.cpp)]**STREAK-DAY-26**
+
+ **19-August-2026 :**(Strings)-[Find the beauty of all the substrings in the string (BeautyOfSubStrings.cpp)]**STREAK-DAY-27**
