@@ -263,3 +263,5 @@ Author - Mohit Sharma
  **18-August-2026 :**(Strings)-[find the longest palindromic substring (LongestPalindrome.cpp)]**STREAK-DAY-26**
 
  **19-August-2026 :**(Strings)-[Find the beauty of all the substrings in the string (BeautyOfSubStrings.cpp)]**STREAK-DAY-27**
+
+**20-August-2026 :**(Strings)-[STRINGS ARE MOSTLY OVER, OFC NOT ALL THE PATTERNS, BUT ALL THE POPULAR ONES YAYYYYYYYYYY.........]**STREAK-DAY-27**
