@@ -265,3 +265,5 @@ Author - Mohit Sharma
  **19-August-2026 :**(Strings)-[Find the beauty of all the substrings in the string (BeautyOfSubStrings.cpp)]**STREAK-DAY-27**
 
 **20-August-2026 :**(Strings)-[STRINGS ARE MOSTLY OVER, OFC NOT ALL THE PATTERNS, BUT ALL THE POPULAR ONES YAYYYYYYYYYY.........]**STREAK-DAY-27**
+
+**21-August-2026 :**(----------------------BREAK----------------------)**STREAK-DAY-27**
