@@ -267,3 +267,7 @@ Author - Mohit Sharma
 **20-August-2026 :**(Strings)-[STRINGS ARE MOSTLY OVER, OFC NOT ALL THE PATTERNS, BUT ALL THE POPULAR ONES YAYYYYYYYYYY.........]**STREAK-DAY-27**
 
 **21-August-2026 :**(----------------------BREAK----------------------)**STREAK-DAY-27**
+
+**------------------------------------------------LINKED LIST---------------------------------------------------**
+
+**22-August-2026 :**(LinkedList)-[First LinkedList creation (SingleLinkedList.cpp)]**STREAK-DAY-28**
