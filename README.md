@@ -271,3 +271,5 @@ Author - Mohit Sharma
 **------------------------------------------------LINKED LIST---------------------------------------------------**
 
 **22-August-2026 :**(LinkedList)-[First LinkedList creation (SingleLinkedList.cpp), Delete a node without been given the head pointer (DeleteNodeWithoutHead.cpp)]**STREAK-DAY-28**
+
+**23-August-2026 :**(LinkedList)-[First Doubly Linked List program (DoubleLinkedList.cpp)]**STREAK-DAY-29**
