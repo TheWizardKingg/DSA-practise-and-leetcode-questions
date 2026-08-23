@@ -18,25 +18,25 @@ class Solution {
 public:
     ListNode* reverseDLL(ListNode* head) {
 
-        if(head == NULL)
+        if(head == NULL)   //avoid the empty linked list edge case
             return NULL;
-
-        ListNode* A = head;
-        ListNode* temp;
+   
+        ListNode* A = head;   //make two pointers, one on original head (final ending node)
+        ListNode* temp;      //make another pointer to basically act as the third variable to swap the connections
 
         while(true) {
 
-            temp = A->prev;
-            A->prev = A->next;
-            A->next = temp;
+            temp = A->prev;   //temporarily store the prev value of current node (current node = A)
+            A->prev = A->next;    //update the prev pointer 
+            A->next = temp;    //update the next pointer
 
-            if(A->prev == NULL)
+            if(A->prev == NULL)   //basically if A is on the last node of original list (or first node of the reversed list)
                 break;
 
-            A = A->prev;
+            A = A->prev;   //otherwise keep updating
         }
 
-        return A;
+        return A;   //return A as the new head of the reversed linked list
     }
 };
 
