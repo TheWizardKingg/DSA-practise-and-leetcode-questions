@@ -273,3 +273,5 @@ Author - Mohit Sharma
 **22-August-2026 :**(LinkedList)-[First LinkedList creation (SingleLinkedList.cpp), Delete a node without been given the head pointer (DeleteNodeWithoutHead.cpp)]**STREAK-DAY-28**
 
 **23-August-2026 :**(LinkedList)-[First Doubly Linked List program (DoubleLinkedList.cpp), Reverse a given doubly linked list (ReverseDoubleLinkedList.cpp), Find the middle of the linked list (MiddleOfTheLinkedList.cpp)]**STREAK-DAY-29**
+
+**24-August-2026 :**(LinkedList)-[Reverse the given singly linked list (ReverseSingleLinkedList.cpp)]**STREAK-DAY-30**
