@@ -274,4 +274,4 @@ Author - Mohit Sharma
 
 **23-August-2026 :**(LinkedList)-[First Doubly Linked List program (DoubleLinkedList.cpp), Reverse a given doubly linked list (ReverseDoubleLinkedList.cpp), Find the middle of the linked list (MiddleOfTheLinkedList.cpp)]**STREAK-DAY-29**
 
-**24-August-2026 :**(LinkedList)-[Reverse the given singly linked list (ReverseSingleLinkedList.cpp)]**STREAK-DAY-30**
+**24-August-2026 :**(LinkedList)-[Reverse the given singly linked list (ReverseSingleLinkedList.cpp), Detect whether the linked list contains loops or not (DetectLinkedListCycle.cpp)]**STREAK-DAY-30**
