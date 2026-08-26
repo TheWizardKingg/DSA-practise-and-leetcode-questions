@@ -278,4 +278,4 @@ Author - Mohit Sharma
 
 **25-August-2026 :**(LinkedList)-[Find the first node of the loop inside the linked list (StartingNodeOfLoop.cpp)]**STREAK-DAY-31**
 
-**26-August-2026 :**(LinkedList)-[Find the length of the linked list loop (LengthOfLoopInList.cpp)]**STREAK-DAY-32*
+**26-August-2026 :**(LinkedList)-[Find the length of the linked list loop (LengthOfLoopInList.cpp), Check whether the given linked list is palindrome or not (PalindromeInLinkedList.cpp)]**STREAK-DAY-32*
