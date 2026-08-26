@@ -276,4 +276,6 @@ Author - Mohit Sharma
 
 **24-August-2026 :**(LinkedList)-[Reverse the given singly linked list (ReverseSingleLinkedList.cpp), Detect whether the linked list contains loops or not (DetectLinkedListCycle.cpp)]**STREAK-DAY-30**
 
-**25-August-2026 :**(LinkedList)-[Find the first node of the loop inside the linked list (StartingNodeOfLoop.cpp)]**STREAK-DAY-31**k
+**25-August-2026 :**(LinkedList)-[Find the first node of the loop inside the linked list (StartingNodeOfLoop.cpp)]**STREAK-DAY-31**
+
+**26-August-2026 :**(LinkedList)-[Find the length of the linked list loop (LengthOfLoopInList.cpp)]**STREAK-DAY-32*
