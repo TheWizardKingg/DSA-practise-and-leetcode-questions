@@ -34,24 +34,24 @@ public:
         else if(head->next == NULL) return true;
     
         ListNode* slowPtr = head;
-        ListNode* fastPtr = head;
+        ListNode* fastPtr = head;  //find the middle node by slow/fast pointers
         ListNode* head2;
 
         while(true){
             if(fastPtr == NULL){
-                head2 = Reverse(slowPtr);
+                head2 = Reverse(slowPtr);     //reverse the other half of the list
                 break;
             }else if(fastPtr->next == NULL){
-                head2 = Reverse(slowPtr->next);
+                head2 = Reverse(slowPtr->next);    
                 break;
-            }
+            }     
             slowPtr = slowPtr->next;
             fastPtr = fastPtr->next->next;
         }
 
-        slowPtr = head;
+        slowPtr = head;     //reset any one pointer to the start
 
-        while(head2 != NULL){
+        while(head2 != NULL){          //check the first half of linked list with reversed other half of the list, if same, then true, otherwise false
             if(slowPtr->val != head2->val) return false;
             head2 = head2->next;
             slowPtr = slowPtr->next;
