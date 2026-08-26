@@ -37,12 +37,12 @@ public:
         ListNode* temp = slowPtr;
         int count = 0;
 
-        while(temp != slowPtr){
+        while(temp != slowPtr){   //just make a temporary counter and increment until we return to the previous starting node
             count++;
             temp= temp->next;
         }
 
-        return count;
+        return count;     //return count
     }
 };
 
