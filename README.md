@@ -284,4 +284,5 @@ Author - Mohit Sharma
 
 **28-August-2026 :**(LinkedList)-[Delete the Nth node from back of the Linked List (DeleteNthNodeFromBack.cpp)]**STREAK-DAY-34**
 
-**29-August-2026 :**(LinkedList)-[Delete the middle node from the linked list (DeleteMiddleNode.cpp)]**STREAK-DAY-35**
+**29-August-2026 :**(LinkedList)-[Delete the middle node from the linked list (DeleteMiddleNode.cpp), sort the linked list containing only 0s, 1s and 2s (Sort0s1s2sLinkedList.cpp)]**STREAK-DAY-35**
+
