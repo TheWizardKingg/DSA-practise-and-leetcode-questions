@@ -283,3 +283,5 @@ Author - Mohit Sharma
 **27-August-2026 :**(LinkedList)-[Separate all the even and odd nodes of the linked list (SegregateOddEvenNodes.cpp)]**STREAK-DAY-33**
 
 **28-August-2026 :**(LinkedList)-[Delete the Nth node from back of the Linked List (DeleteNthNodeFromBack.cpp)]**STREAK-DAY-34**
+
+**29-August-2026 :**(LinkedList)-[Delete the middle node from the linked list (DeleteMiddleNode.cpp)]**STREAK-DAY-35**
