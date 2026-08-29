@@ -16,19 +16,19 @@ class Solution {
 public:
     ListNode* sortList(ListNode* &head) {
 
-        ListNode* temp0 = NULL;
-        ListNode* temp1 = NULL;
-        ListNode* temp2 = NULL;
+        ListNode* temp0 = NULL;    //to keep track of the last node containing zero
+        ListNode* temp1 = NULL;    //to keep track of the last node containing one
+        ListNode* temp2 = NULL;    //to keep track of the last node containing two
 
-        ListNode* dummy = head;
+        ListNode* dummy = head;    //dummy node for linked list traversal
 
-        ListNode* FirstZero = NULL;
-        ListNode* FirstOne = NULL;
-        ListNode* FirstTwo = NULL;
-
+        ListNode* FirstZero = NULL;   //to keep track of first node containing zero to connect head to this node later
+        ListNode* FirstOne = NULL;    //to keep track of first node contining one to connect zero's last node to this node
+        ListNode* FirstTwo = NULL;   //to keep track of first node containing two to connect one's last node to this node
+ 
         while(dummy != NULL) {
 
-            if(dummy->data == 0) {
+            if(dummy->data == 0) {   //if current node is zero, then save it, update temp0
 
                 if(temp0 == NULL) {
                     temp0 = dummy;
@@ -40,7 +40,7 @@ public:
                 }
 
             }
-            else if(dummy->data == 1) {
+            else if(dummy->data == 1) {   //if current node is 1 then save it, update temp1
 
                 if(temp1 == NULL) {
                     temp1 = dummy;
@@ -52,7 +52,7 @@ public:
                 }
 
             }
-            else {
+            else {     //if current node is 2, then save it and update temp2
 
                 if(temp2 == NULL) {
                     temp2 = dummy;
@@ -67,7 +67,7 @@ public:
             dummy = dummy->next;
         }
 
-        // Connect the three lists
+                                                        // Connect the three lists
         if(temp0 != NULL) {
             head = FirstZero;
 
