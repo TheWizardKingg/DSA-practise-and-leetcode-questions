@@ -15,28 +15,28 @@ class Solution {
 public:
     ListNode* sortList(ListNode* head) {
         // Base case
-        if (head == nullptr || head->next == nullptr)
+        if (head == nullptr || head->next == nullptr)   //in case none or only one node is there after dividing
             return head;
 
         // Find middle
         ListNode* slow = head;
         ListNode* fast = head->next;
 
-        while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
+        while (fast != nullptr && fast->next != nullptr) {    //find the middle node
+            slow = slow->next;    
             fast = fast->next->next;
         }
 
-        // Split the list
-        ListNode* right = slow->next;
+        // Split the list   
+        ListNode* right = slow->next;    //break the list at the middle! 
         slow->next = nullptr;
 
         // Sort both halves
-        ListNode* left = sortList(head);
+        ListNode* left = sortList(head);   //get the heads of both the left and right lists after splitting
         right = sortList(right);
 
         // Merge sorted halves
-        return merge(left, right);
+        return merge(left, right);     //just rearrange/merge both lists at the end
     }
 
 private:
