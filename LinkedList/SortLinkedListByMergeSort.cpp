@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
-class ListNode{
-public: 
+class ListNode{    //make the node class
+public:      
     int val;
     ListNode* next;
 
-    ListNode(int x){
+    ListNode(int x){     //make the required constructor
         val = x;
         next = NULL;
     }
