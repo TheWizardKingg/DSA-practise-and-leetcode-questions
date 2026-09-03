@@ -296,3 +296,5 @@ Author - Mohit Sharma
 
 **2-September-2026 :**(LinkedList)-[Find the intersection Node in the linked list **COMPLETE** (IntersectionNodeInLL.cpp)]**STREAK-DAY-38**
 
+**3-September-2026 :**(LinkedList)-[Add the two reversed numbers as linked lists (AddTwoReversedNumbersAsLL.cpp)]**STREAK-DAY-39**
+
