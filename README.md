@@ -298,5 +298,5 @@ Author - Mohit Sharma
 
 **3-September-2026 :**(LinkedList)-[Add the two reversed numbers as linked lists (AddTwoReversedNumbersAsLL.cpp)]**STREAK-DAY-39**
 
-**4-September-2026 :**(LinkedList)-[Delete all the target nodes from the doubly linked list (DeleteTargetNodesInDoubleLL.cpp), Find all the pairs with given sum in the dounly linked list (FindGivenSumPairsInDoublyLL.cpp)]**STREAK-DAY-40**
+**4-September-2026 :**(LinkedList)-[Delete all the target nodes from the doubly linked list (DeleteTargetNodesInDoubleLL.cpp), Find all the pairs with given sum in the dounly linked list (FindGivenSumPairsInDoublyLL.cpp), Remove all the duplicates from the given doubly linked list (RemoveDuplicatesFromDoublyLL.cpp)]**STREAK-DAY-40**
 
