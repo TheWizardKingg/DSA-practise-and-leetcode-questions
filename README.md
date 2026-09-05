@@ -300,3 +300,5 @@ Author - Mohit Sharma
 
 **4-September-2026 :**(LinkedList)-[Delete all the target nodes from the doubly linked list (DeleteTargetNodesInDoubleLL.cpp), Find all the pairs with given sum in the dounly linked list (FindGivenSumPairsInDoublyLL.cpp), Remove all the duplicates from the given doubly linked list (RemoveDuplicatesFromDoublyLL.cpp), Reverse the chunks in the linked lists containing k nodes (ReverseEveryKthChunkInLL.cpp), rotate the given linked ilst by k steps to the right (RotateTheLinkedListByK.cpp)]**STREAK-DAY-40**
 
+**5-September-2026 :**(LinkedList)-[Flattening of sorted linked list (FlatteningSortedLinkedList.cpp)]**STREAK-DAY-41**
+
