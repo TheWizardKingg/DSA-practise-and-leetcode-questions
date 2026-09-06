@@ -302,3 +302,5 @@ Author - Mohit Sharma
 
 **5-September-2026 :**(LinkedList)-[Flattening of sorted linked list (FlatteningSortedLinkedList.cpp)]**STREAK-DAY-41**
 
+**6-September-2026 :**(LinkedList)-[Make a deep copy of the original linked list having random pointer to random nodes in the list (DeepCopyWithRandomInLL.cpp)]**STREAK-DAY-42**
+
