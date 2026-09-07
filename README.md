@@ -304,5 +304,7 @@ Author - Mohit Sharma
 
 **6-September-2026 :**(LinkedList)-[Make a deep copy of the original linked list having random pointer to random nodes in the list (DeepCopyWithRandomInLL.cpp) **Finally, done with linked list Data structure as well, congratulations to myself**]**STREAK-DAY-42**
 
+**7-September-2026 :**(------------------------------------------- BREAK --------------------------------------------)**STREAK-DAY-42**
+
 
 
