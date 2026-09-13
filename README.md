@@ -317,5 +317,7 @@ EAK-DAY-44**
 
 **12-September-2026 :**(Smart India Hackathon presentation day)**STREAK-DAY-46**
 
+**13-September-2026 :**(Smart India Hackathon after break)**STREAK-DAY-46**
+
 
 
