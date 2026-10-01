@@ -343,6 +343,10 @@ EAK-DAY-44**
 
 **30-September-2026 :**{SIH project finally completed}**STREAK-ON-HOLD-50**
 
+*******************************************START of the actual winter arc*******************************************
+
+**1-October-2026 :** {First day of the winter arc}**STREAK-DAY-51**
+
 
 
 
