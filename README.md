@@ -347,6 +347,8 @@ EAK-DAY-44**
 
 **1-October-2026 :** {First day of the winter arc}**STREAK-DAY-51**
 
+**2-October-2026 :**[generate all possible parenthesis pairs in the string (generateParenthesis.cpp)]**STREAK-DAY-52**
+
 
 
 
