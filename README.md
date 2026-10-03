@@ -349,6 +349,8 @@ EAK-DAY-44**
 
 **2-October-2026 :**[generate all possible parenthesis pairs in the string (generateParenthesis.cpp)]**STREAK-DAY-52**
 
+**3-October-2026 :**[longest valid parenthesis (longestValidParenthesis.cpp)]**STREAK-DAY-53**
+
 
 
 
