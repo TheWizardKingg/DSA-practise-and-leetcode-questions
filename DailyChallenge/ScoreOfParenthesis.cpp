@@ -1,4 +1,7 @@
-class Solution {
+#include<iostream>
+#include<string>
+#include<stack>
+using namespace std;class Solution {
 public:
     int scoreOfParentheses(string s) {
         stack<int> st;
