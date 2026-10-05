@@ -353,6 +353,8 @@ EAK-DAY-44**
 
 **4-October-2026 :**[generate all possible subsets for a given set via recursion (generateSubsetsViaRecursion.cpp), check whether the string is valid or not (ValidParenthesisString.cpp)]**STREAK-DAY-54**
 
+**5-October-2026 :**[Score of Parenthesis (ScoreOfParenthesis.cpp)]**STREAK-DAY-55**
+
 
 
 
