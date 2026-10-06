@@ -355,6 +355,8 @@ EAK-DAY-44**
 
 **5-October-2026 :**[Score of Parenthesis (ScoreOfParenthesis.cpp)]**STREAK-DAY-55**
 
+**6-October-2026 :**[Minimum add to make parenthesis valid (MinimumAddParenthesis.cpp)]**STREAK-DAY-56**
+
 
 
 
