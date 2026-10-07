@@ -357,6 +357,8 @@ EAK-DAY-44**
 
 **6-October-2026 :**[Minimum add to make parenthesis valid (MinimumAddParenthesis.cpp)]**STREAK-DAY-56**
 
+**7-October-2026 :**[BFS, traversal algorithm, two given binary trees given to check whether same or not problem]**STREAK-DAY-57**
+
 
 
 
