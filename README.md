@@ -359,6 +359,8 @@ EAK-DAY-44**
 
 **7-October-2026 :**[BFS, traversal algorithm, two given binary trees given to check whether same or not problem]**STREAK-DAY-57**
 
+**8-October-2026 :**[DFS, traversal algorithm, find number of nodes in a tree, balance a tree, find the leftmost node in the last level of the binary tree (college DSA practice {not a part of striver sheet})]**STREAK-DAY-58**
+
 
 
 
