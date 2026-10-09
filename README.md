@@ -361,6 +361,8 @@ EAK-DAY-44**
 
 **8-October-2026 :**[DFS, traversal algorithm, find number of nodes in a tree, balance a tree, find the leftmost node in the last level of the binary tree (college DSA practice {not a part of striver sheet})]**STREAK-DAY-58**
 
+**9-October-2026 :**[Minimum insertions needed to balance a parenthesis string]**STREAK-DAY-59**
+
 
 
 
