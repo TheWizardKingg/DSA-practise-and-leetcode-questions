@@ -363,6 +363,8 @@ EAK-DAY-44**
 
 **9-October-2026 :**[Minimum insertions needed to balance a parenthesis string]**STREAK-DAY-59**
 
+**10-October-2026 :**[Minimum sum of sqarred difference of two arrays]**STREAK-DAY-60**
+
 
 
 
