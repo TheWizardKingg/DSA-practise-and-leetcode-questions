@@ -365,6 +365,8 @@ EAK-DAY-44**
 
 **10-October-2026 :**[Minimum sum of sqarred difference of two arrays]**STREAK-DAY-60**
 
+**11-October-2026 :**[Sum of sqares of special elements]**STREAK-DAY-61**
+
 
 
 
