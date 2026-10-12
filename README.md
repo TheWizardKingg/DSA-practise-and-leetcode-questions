@@ -367,6 +367,8 @@ EAK-DAY-44**
 
 **11-October-2026 :**[Sum of sqares of special elements]**STREAK-DAY-61**
 
+**12-October-2026 :**[Apply operations on array to maximize the sum of swares]**STREAK-DAY-62**
+
 
 
 
