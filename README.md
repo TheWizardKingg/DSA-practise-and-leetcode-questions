@@ -369,6 +369,8 @@ EAK-DAY-44**
 
 **12-October-2026 :**[Apply operations on array to maximize the sum of swares]**STREAK-DAY-62**
 
+**13-October-2026 :**[Alternating sum of squares]**STREAK-DAY-60**
+
 
 
 
