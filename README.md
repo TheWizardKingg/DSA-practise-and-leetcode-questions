@@ -371,6 +371,8 @@ EAK-DAY-44**
 
 **13-October-2026 :**[Alternating sum of squares]**STREAK-DAY-60**
 
+**14-October-2026 :**[NO PRACTISE DUE TO COLLEGE MID SEM EXAMS]**STREAK-ON-HOLD**
+
 
 
 
