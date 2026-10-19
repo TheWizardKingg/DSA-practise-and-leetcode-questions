@@ -381,7 +381,7 @@ EAK-DAY-44**
 
 **18-October-2026 :**[STREAK IS GONNA RESTART TOMORROW]**STREAK-ON-HOLD**
 
-**19-October-2026 :**[]
+**19-October-2026 :**[Return the indexes of the elements after sorting (SortedIndexInArray.cpp)]**STREAK-DAY-61**
 
 
 
