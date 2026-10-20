@@ -383,7 +383,7 @@ EAK-DAY-44**
 
 **19-October-2026 :**[Return the indexes of the elements after sorting (SortedIndexInArray.cpp)]**STREAK-DAY-61**
 
-**20-October-2026 :**[Sum of sortable integers ]**STREAK-DAY-62**
+**20-October-2026 :**[Sum of sortable integers (Striver Sheet resuming tomorrow)]**STREAK-DAY-62**
 
 
 
