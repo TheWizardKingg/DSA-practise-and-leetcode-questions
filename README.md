@@ -385,6 +385,8 @@ EAK-DAY-44**
 
 **20-October-2026 :**[Sum of sortable integers (Striver Sheet resuming tomorrow)]**STREAK-DAY-62**
 
+**21-October-2026 :**[Minimum Sorting string]**STREAK-DAY-63**
+
 
 
 
