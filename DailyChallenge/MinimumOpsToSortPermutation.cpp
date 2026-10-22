@@ -41,5 +41,4 @@ int zero = find(nums.begin(), nums.end(), 0) - nums.begin();
 
     return ans == INT_MAX ? -1 : ans;
 }
-
 };
