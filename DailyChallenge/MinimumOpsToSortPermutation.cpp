@@ -1,3 +1,9 @@
+#include<iostream>
+#include<vector>
+#include<climits>
+#include<algorithm>
+using namespace std;
+
 class Solution {
 public:
 int minOperations(vector<int>& nums) {
