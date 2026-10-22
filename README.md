@@ -387,6 +387,8 @@ EAK-DAY-44**
 
 **21-October-2026 :**[Minimum Sorting string] **STREAK-DAY-63**
 
+**22-October-2026 :**[Minimum operations to sort a permutation]**STREAK-DAY-64**
+
 
 
 
