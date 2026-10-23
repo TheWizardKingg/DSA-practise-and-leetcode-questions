@@ -389,6 +389,8 @@ EAK-DAY-44**
 
 **22-October-2026 :**[Minimum operations to sort a permutation]**STREAK-DAY-64**
 
+**23-October-2026 :**[Maximum k to sort permutation]**STREAK-DAY-65**
+
 
 
 
