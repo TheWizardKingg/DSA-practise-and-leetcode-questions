@@ -391,6 +391,8 @@ EAK-DAY-44**
 
 **23-October-2026 :**[Maximum k to sort permutation]**STREAK-DAY-65**
 
+**24-October-2026 :**[Days spent together]**STREAK-DAY-66**
+
 
 
 
