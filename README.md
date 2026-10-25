@@ -393,6 +393,8 @@ EAK-DAY-44**
 
 **24-October-2026 :**[Days spent together]**STREAK-DAY-66**
 
+**25-October-2026 :**[Previous homework questions from college + Number of closed islands]**STREAK-DAY-67**
+
 
 
 
