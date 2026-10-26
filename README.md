@@ -395,6 +395,8 @@ EAK-DAY-44**
 
 **25-October-2026 :**[Previous homework questions from college + Number of closed islands]**STREAK-DAY-67**
 
+**26-October-2026 :**[Daily challenge]**STREAK-DAY-68**
+
 
 
 
