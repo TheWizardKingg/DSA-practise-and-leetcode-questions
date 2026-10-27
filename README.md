@@ -397,6 +397,8 @@ EAK-DAY-44**
 
 **26-October-2026 :**[Daily challenge]**STREAK-DAY-68**
 
+**27-October-2026 :**[Create grid with exactly one path]**STREAK-DAY-69**
+
 
 
 
