@@ -401,6 +401,8 @@ EAK-DAY-44**
 
 **28-October-2026 :**[Minimum XOR path in a grid]**STREAK-DAY-70**
 
+**29-October-2026 :**[palindromic path in tree]**STREAK-DAY-71**
+
 
 
 
