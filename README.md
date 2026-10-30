@@ -403,6 +403,8 @@ EAK-DAY-44**
 
 **29-October-2026 :**[palindromic path in tree]**STREAK-DAY-71**
 
+**30-October-2026 :**[shortest path with atmost k consecutive identical characters]**STREAK-DAY-72**
+
 
 
 
