@@ -406,7 +406,7 @@ EAK-DAY-44**
 **30-October-2026 :**[shortest path with atmost k consecutive identical characters]**STREAK-DAY-72**
 
 **31-October-2026 :**[Count Good numbers upto n (CountGoodNumbers.cpp), Reverse a stack without any additional Data Structure, 
-longest substring without repeating characters in a string]**STREAK-DAY-73**
+longest substring without repeating characters in a string, Count twisted mirror path count]**STREAK-DAY-73**
 
 
 
