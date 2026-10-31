@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 class Solution {
 public:
     long long power(long long x, long long n, long long mod) {
