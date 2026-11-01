@@ -408,6 +408,8 @@ EAK-DAY-44**
 **31-October-2026 :**[Count Good numbers upto n (CountGoodNumbers.cpp), Reverse a stack without any additional Data Structure, 
 longest substring without repeating characters in a string, Count twisted mirror path count]**STREAK-DAY-73**
 
+**1-November-2026 :**[Daily challenge]**STREAK-DAY-74**
+
 
 
 
