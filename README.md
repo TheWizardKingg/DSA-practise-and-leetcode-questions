@@ -410,6 +410,8 @@ longest substring without repeating characters in a string, Count twisted mirror
 
 **1-November-2026 :**[Daily challenge]**STREAK-DAY-74**
 
+**2-November-2026 :**[Minimum moves to equal an array-2]**STREAK-DAY-75**
+
 
 
 
