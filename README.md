@@ -418,6 +418,8 @@ longest substring without repeating characters in a string, Count twisted mirror
 
 **5-November-2026 :**[Distance value between 2 arrays (O(n*m))]**STREAK-DAY-78**
 
+**6-November-2026 :**[Count zero request servers]**STREAK-DAY-79**
+
 
 
 
