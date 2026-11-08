@@ -422,6 +422,8 @@ longest substring without repeating characters in a string, Count twisted mirror
 
 **8-November-2026 :**[Process tasks using servers]**STREAK-DAY-80**
 
+**9-November-2026 :**[Count all the servers in the integer grid]**STREAK-DAY-81**
+
 
 
 
