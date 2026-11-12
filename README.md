@@ -430,6 +430,8 @@ longest substring without repeating characters in a string, Count twisted mirror
 
 **11-November-2026 :**[Minimum cost to aquire required days]**STREAK-DAY-84**
 
+**12-November-2026 :**[Count strictly increasing or strictly decreasing subarray of the given array]**STREAK-DAY-85**
+
 
 
 
