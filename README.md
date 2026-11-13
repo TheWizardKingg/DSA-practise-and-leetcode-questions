@@ -432,6 +432,8 @@ longest substring without repeating characters in a string, Count twisted mirror
 
 **12-November-2026 :**[Count strictly increasing or strictly decreasing subarray of the given array]**STREAK-DAY-85**
 
+**13-November-2026 :**[Count increasing subarrays after atmost k operations]**STREAK-DAY-86**
+
 
 
 
