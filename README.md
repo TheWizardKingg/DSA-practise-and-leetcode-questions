@@ -438,6 +438,8 @@ longest substring without repeating characters in a string, Count twisted mirror
 
 **15-November-2026 :**[Daily challenge]**STREAK-DAY-88**
 
+**16-November-2026 :**[Calculate digit sum of a string]**STREAK-DAY-89**
+
 
 
 
