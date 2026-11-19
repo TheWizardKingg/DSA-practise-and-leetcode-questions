@@ -444,6 +444,8 @@ longest substring without repeating characters in a string, Count twisted mirror
 
 **18-November-2026 :**[Minimum number of changes to make a binary string beautiful]**STREAK-DAY-90, STREAK-ON-HOLD**
 
+**19-November-2026 :**[Daily Challenge]**STREAK-DAY-90, STREAK-ON-HOLD**
+
 
 
 
